@@ -13,3 +13,8 @@ Notes:
 * Features tracked with the 3D position and odometers, remove outliers with ransac and a first motion estimation is performed
 * Then the robot motion is refined with ML estimation
 * cam  : 640x480px 80x64° and 8.4cm baseline 
+* "update often, search less" doesn't work and other operationnal constraints
+* IMU drifted slowly + good encoder based estimation
+* VO used in high sloped : more features and risk to slip
+* VO increased precision and safety of the navigation
+* Navigating with rover track: slip check by looking backward 
