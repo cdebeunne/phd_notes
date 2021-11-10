@@ -2,6 +2,8 @@
 
 Authors: Mark Maimone,
 Yang Cheng, and Larry Matthies
+
+Year: 2007
 ___
 
 Notes:
@@ -18,3 +20,9 @@ Notes:
 * VO used in high sloped : more features and risk to slip
 * VO increased precision and safety of the navigation
 * Navigating with rover track: slip check by looking backward 
+* Slip checking device
+* Necessity of wide angles camera for better feature tracking
+___
+Commentaires:
+---
+Bilan de deux ans de mission sur Mars: de belles anecdotes et une preuve de la nécessité de la navigation visuelle. Element de comparaison intéressant.

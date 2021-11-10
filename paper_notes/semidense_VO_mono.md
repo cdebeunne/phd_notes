@@ -1,6 +1,8 @@
 # Semi-Dense Visual Odometry for a Monocular Camera
 
 Authors: Jakob Engel, Jürgen Sturm, Daniel Cremers
+
+Year: 2014
 ___
 
 Notes: 
