@@ -16,9 +16,10 @@ Spatial exploration:
 Talks:
 ---
 * [Dynamic Environments in Least Squares SLAM](paper_notes/dynamicEnv_talk.md) - Stachniss
+* [Where Can Machine Learning Help Robotic State Estimation?](paper_notes/barfoot_talk.md) - Barfoot
 
 To read:
 ---
-* Direct Visual Odometry for a Fisheye-Stereo Camera - Liu
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
 * Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder - Jiang
+* Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
