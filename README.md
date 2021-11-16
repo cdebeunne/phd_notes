@@ -12,6 +12,9 @@ SLAM:
 Spatial exploration:
 ---
 * [Two Years of Visual Odometry on the Mars Exploration Rovers](paper_notes/mars_rover.md) - Mark Maimone
+* [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard (JPL)
+* [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/MER_gestalt.md) - Mark Maimone
+* [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
 
 Talks:
 ---
@@ -23,3 +26,5 @@ To read:
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
 * Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder - Jiang
 * Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
+* Real-time direct dense matching on fisheye
+images using plane-sweeping stereo - Häne 

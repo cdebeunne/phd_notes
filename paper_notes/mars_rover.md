@@ -12,7 +12,7 @@ Notes:
 * Impossible to use VO while driving "fast"
 * Helps to estimate slip
 * Tracks Harris features with the highest score and compute their 3D position with stereo vision
-* Features tracked with the 3D position and odometers, remove outliers with ransac and a first motion estimation is performed
+* Features tracked with the 3D position and odometers, perform a corelation based search for matching, remove outliers with ransac and a first motion estimation is performed
 * Then the robot motion is refined with ML estimation
 * cam  : 640x480px 80x64° and 8.4cm baseline 
 * "update often, search less" doesn't work and other operationnal constraints
