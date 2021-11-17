@@ -8,13 +8,20 @@ SLAM:
 * [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](paper_notes/deepFactors.md) - Davison
 * [Direct Visual Odometry for a Fisheye-Stereo Camera](paper_notes/directVO_fisheyeStereo.md) - Liu
 * [WOLF: A modular estimation framework for robotics based on factor graphs](paper_notes/wolf.md) - Joan Solà
+* [Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder](paper_notes/PIW_SLAM.md) - Jiang
+* [A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](paper_notes/SLAM_survey.md) - Huang
 
 Spatial exploration:
 ---
 * [Two Years of Visual Odometry on the Mars Exploration Rovers](paper_notes/mars_rover.md) - Mark Maimone
-* [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard (JPL)
+* [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard
 * [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/MER_gestalt.md) - Mark Maimone
 * [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
+* [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
+
+Image Processing:
+---
+* [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
 
 Talks:
 ---
@@ -23,8 +30,8 @@ Talks:
 
 To read:
 ---
+* ProSLAM: Graph SLAM from a Programmer’s Perspective - Schlegel
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
-* Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder - Jiang
 * Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
 * Real-time direct dense matching on fisheye
 images using plane-sweeping stereo - Häne 
