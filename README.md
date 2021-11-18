@@ -10,6 +10,8 @@ SLAM:
 * [WOLF: A modular estimation framework for robotics based on factor graphs](paper_notes/wolf.md) - Joan Solà
 * [Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder](paper_notes/PIW_SLAM.md) - Jiang
 * [A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](paper_notes/SLAM_survey.md) - Huang
+* [ProSLAM: Graph SLAM from a Programmer's Perspective](paper_notes/proSLAM.md) - Schlegel
+* [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - Garcia-Fidalgo
 
 Spatial exploration:
 ---
@@ -18,10 +20,13 @@ Spatial exploration:
 * [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/MER_gestalt.md) - Mark Maimone
 * [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
 * [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
+* [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
 
 Image Processing:
 ---
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
+* [Real-Time Direct Dense Matching on Fisheye Images
+Using Plane-Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
 
 Talks:
 ---
@@ -33,5 +38,6 @@ To read:
 * ProSLAM: Graph SLAM from a Programmer’s Perspective - Schlegel
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
 * Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
-* Real-time direct dense matching on fisheye
-images using plane-sweeping stereo - Häne 
+* Direct Fisheye Stereo Correspondence Using
+Enhanced Unified Camera Model and Semi-Global
+Matching Algorithm - Khomutenko
