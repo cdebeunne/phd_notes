@@ -11,7 +11,8 @@ SLAM:
 * [Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder](paper_notes/PIW_SLAM.md) - Jiang
 * [A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](paper_notes/SLAM_survey.md) - Huang
 * [ProSLAM: Graph SLAM from a Programmer's Perspective](paper_notes/proSLAM.md) - Schlegel
-* [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - Garcia-Fidalgo
+* [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
+* [Map Construction Based on Lidar Vision Inertial Multi-sensor Fusion](paper_notes/LidarVisionMapping.md) - REVIEW SENSOR
 
 Spatial exploration:
 ---
@@ -21,6 +22,7 @@ Spatial exploration:
 * [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
 * [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
+* [Driving Curiosity: Mars Rover Mobility Trends During the First Seven Years](paper_notes/driving_curiosity.md) - Rankin
 
 Image Processing:
 ---
