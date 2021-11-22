@@ -27,8 +27,10 @@ Spatial exploration:
 Image Processing:
 ---
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
-* [Real-Time Direct Dense Matching on Fisheye Images
-Using Plane-Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
+* [Real Time Direct Dense Matching on Fisheye Images Using Plane Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
+* [Real Time Sphere Sweeping Stereo from Multiview Fisheye Images](paper_notes/sphereSweeping.md) - Meuleman
+* [Binocular Spherical Stereo](paper_notes/binocularSpher.md) - Li
+
 
 Talks:
 ---
@@ -37,7 +39,6 @@ Talks:
 
 To read:
 ---
-* ProSLAM: Graph SLAM from a Programmer’s Perspective - Schlegel
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
 * Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
 * Direct Fisheye Stereo Correspondence Using
