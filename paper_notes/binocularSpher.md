@@ -13,3 +13,7 @@ Notes:
 * Images need to be rectified: a rotation matrix is computed thanks to a calibration process that can map the pixels of a camera so that the frames of both images are aligned
 * High computational cost of searching along epipolar curves => creation of a latitude longitude image
 * Simulation to study the error factors for distance computation: blind spot around the epipoles 
+
+Commentaires:
+---
+Explication assez claire de la stéréo pour les fisheye, papier important

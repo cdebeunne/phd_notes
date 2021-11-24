@@ -30,6 +30,9 @@ Image Processing:
 * [Real Time Direct Dense Matching on Fisheye Images Using Plane Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
 * [Real Time Sphere Sweeping Stereo from Multiview Fisheye Images](paper_notes/sphereSweeping.md) - Meuleman
 * [Binocular Spherical Stereo](paper_notes/binocularSpher.md) - Li
+* [Construction de modèles 3D à partir de données vidéo fisheye : application à la localisation en milieu urbain](paper_notes/these_moreau.md) - Thèse de Julien Moreau
+* [Omnidirectional stereoscopic vision systems for planetary exploration rovers](paper_notes/omnidirForRovers.md) - Torres
+* [A Generic Fisheye camera model for robotic applications](paper_notes/genericFisheyeModel.md) - Courbon
 
 
 Talks:
@@ -44,3 +47,5 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
+* Catadioptric
+projective geometry - Gever
