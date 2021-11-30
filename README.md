@@ -13,6 +13,7 @@ SLAM:
 * [ProSLAM: Graph SLAM from a Programmer's Perspective](paper_notes/proSLAM.md) - Schlegel
 * [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
 * [Map Construction Based on Lidar Vision Inertial Multi-sensor Fusion](paper_notes/LidarVisionMapping.md) - REVIEW SENSOR
+* [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
 
 Spatial exploration:
 ---
@@ -33,6 +34,11 @@ Image Processing:
 * [Construction de modèles 3D à partir de données vidéo fisheye : application à la localisation en milieu urbain](paper_notes/these_moreau.md) - Thèse de Julien Moreau
 * [Omnidirectional stereoscopic vision systems for planetary exploration rovers](paper_notes/omnidirForRovers.md) - Torres
 * [A Generic Fisheye camera model for robotic applications](paper_notes/genericFisheyeModel.md) - Courbon
+* [Measurement of Three Dimensional Environment with
+a FishEye Camera Based on Structure from
+Motion Error Analysis](paper_notes/sfmFisheye.md) - Terabayashi
+* [Bags of Binary Words for Fast Place Recognition in
+Image Sequences](paper_notes/bow.md) - Lopez
 
 
 Talks:
@@ -43,9 +49,10 @@ Talks:
 To read:
 ---
 * DTAM: Dense Tracking and Mapping in Real-Time - Davison
-* Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator - Barfoot
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* Catadioptric
-projective geometry - Gever
+* Robust Visual Odometry Using Position-Aware
+Flow and Geometric Bundle Adjustment - Cao
+* ac2SLAM: FPGA Accelerated High-Accuracy SLAM
+with Heapsort and Parallel Keypoint Extractor - Wang
