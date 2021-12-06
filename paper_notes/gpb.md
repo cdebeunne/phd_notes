@@ -22,4 +22,9 @@ Notes:
 * Precision matrix is sparse and represents the connections in the f graph
 * **MAP inference** solves for mu while **marginal inference** solves for both mu and precision matrix
 * Covariance scalling =  turning non Gaussian distr to Gaussian
-* 
+* possible to prioritize sending messages that contribute the most to overall convergence
+* GP can converge with arbitrary message passing schedule
+
+Commentaires:
+---
+Relire l'appendice et jeter un oeil au notebook, colle bien avec les objectifs de la thèse
