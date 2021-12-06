@@ -14,6 +14,7 @@ SLAM:
 * [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
 * [Map Construction Based on Lidar Vision Inertial Multi-sensor Fusion](paper_notes/LidarVisionMapping.md) - REVIEW SENSOR
 * [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
+* [SLAM Course](paper_notes/courseSLAM.md) - Joan Solà
 
 Spatial exploration:
 ---
@@ -38,7 +39,12 @@ Image Processing:
 a FishEye Camera Based on Structure from
 Motion Error Analysis](paper_notes/sfmFisheye.md) - Terabayashi
 * [Bags of Binary Words for Fast Place Recognition in
-Image Sequences](paper_notes/bow.md) - Lopez
+Image Sequences](paper_notes/bow.md) - Lopez 
+* [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](paper_notes/semiGlobalMatching.md) - Hirschmüller
+
+Maths:
+---
+* [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
 
 
 Talks:
