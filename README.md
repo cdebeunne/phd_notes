@@ -15,6 +15,7 @@ SLAM:
 * [Map Construction Based on Lidar Vision Inertial Multi-sensor Fusion](paper_notes/LidarVisionMapping.md) - REVIEW SENSOR
 * [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
 * [SLAM Course](paper_notes/courseSLAM.md) - Joan Solà
+* [Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment](paper_notes/robustVO.md) - Cao
 
 Spatial exploration:
 ---
@@ -45,6 +46,11 @@ Image Sequences](paper_notes/bow.md) - Lopez
 Maths:
 ---
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
+* [A micro Lie theory for state estimation in robotics](paper_notes/micro_lie.md) - Solà
+* [A tutorial on Newton methods for constrained
+trajectory optimization and relations to SLAM,
+Gaussian Process smoothing, optimal control, and
+probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 
 
 Talks:
@@ -58,7 +64,6 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* Robust Visual Odometry Using Position-Aware
-Flow and Geometric Bundle Adjustment - Cao
 * ac2SLAM: FPGA Accelerated High-Accuracy SLAM
 with Heapsort and Parallel Keypoint Extractor - Wang
+* The Relocalization of SLAM Tracking Based on Spherical Cameras -Qiang
