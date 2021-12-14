@@ -16,6 +16,8 @@ SLAM:
 * [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
 * [SLAM Course](paper_notes/courseSLAM.md) - Joan Solà
 * [Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment](paper_notes/robustVO.md) - Cao
+* [OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time
+Applications](paper_notes/ov2SLAM.md) - Ferrera
 
 Spatial exploration:
 ---
@@ -64,6 +66,5 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* ac2SLAM: FPGA Accelerated High-Accuracy SLAM
-with Heapsort and Parallel Keypoint Extractor - Wang
 * The Relocalization of SLAM Tracking Based on Spherical Cameras -Qiang
+* Real-Time Monocular Visual Odometry for Turbid and Dynamic Underwater Environments - Ferrera
