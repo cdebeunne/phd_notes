@@ -18,6 +18,12 @@ SLAM:
 * [Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment](paper_notes/robustVO.md) - Cao
 * [OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time
 Applications](paper_notes/ov2SLAM.md) - Ferrera
+* [Bundle Adjustment on a Graph Processor](paper_notes/bundleGPB.md) - Davison
+* [Real-time Monocular Visual Odometry for Turbid and
+Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
+* [Comparison of feature detection and outlier removal strategies in a monovisual odometry algorithm for underwater navigation](paper_notes/underwaterNavigation.md) - Bucci
+* [A Survey on Real-Time Motion Estimation Techniques for Underwater Robots](paper_notes/surveyUnderwater.md) - Ferreira
+
 
 Spatial exploration:
 ---
@@ -28,6 +34,8 @@ Spatial exploration:
 * [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
 * [Driving Curiosity: Mars Rover Mobility Trends During the First Seven Years](paper_notes/driving_curiosity.md) - Rankin
+* [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
+* [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
 
 Image Processing:
 ---
@@ -53,6 +61,8 @@ Maths:
 trajectory optimization and relations to SLAM,
 Gaussian Process smoothing, optimal control, and
 probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
+* [MegBA: A High-Performance and Distributed Library
+for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 
 
 Talks:
@@ -66,5 +76,8 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* The Relocalization of SLAM Tracking Based on Spherical Cameras -Qiang
-* Real-Time Monocular Visual Odometry for Turbid and Dynamic Underwater Environments - Ferrera
+* The Relocalization of SLAM Tracking Based on Spherical Cameras - Chang
+* Cluster-Based Loop Closing Detection for Underwater SLAM in
+Feature-Poor Regions - Negre
+* Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
+* A survey on real-time motion estimation techniques for underwater robots - Ferreira
