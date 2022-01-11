@@ -23,6 +23,8 @@ Applications](paper_notes/ov2SLAM.md) - Ferrera
 Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [Comparison of feature detection and outlier removal strategies in a monovisual odometry algorithm for underwater navigation](paper_notes/underwaterNavigation.md) - Bucci
 * [A Survey on Real-Time Motion Estimation Techniques for Underwater Robots](paper_notes/surveyUnderwater.md) - Ferreira
+* [The Relocalization of SLAM Tracking Based on Spherical Cameras](paper_notes/relocSpherical.md) - Chang
+* [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](paper_notes/DMVIO.md) - Cremers
 
 
 Spatial exploration:
@@ -80,4 +82,3 @@ Matching Algorithm - Khomutenko
 * Cluster-Based Loop Closing Detection for Underwater SLAM in
 Feature-Poor Regions - Negre
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
-* A survey on real-time motion estimation techniques for underwater robots - Ferreira
