@@ -25,6 +25,7 @@ Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [A Survey on Real-Time Motion Estimation Techniques for Underwater Robots](paper_notes/surveyUnderwater.md) - Ferreira
 * [The Relocalization of SLAM Tracking Based on Spherical Cameras](paper_notes/relocSpherical.md) - Chang
 * [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](paper_notes/DMVIO.md) - Cremers
+* [Direct Sparse Odometry](paper_notes/DSO.md) - Cremers
 
 
 Spatial exploration:
@@ -54,6 +55,7 @@ Motion Error Analysis](paper_notes/sfmFisheye.md) - Terabayashi
 * [Bags of Binary Words for Fast Place Recognition in
 Image Sequences](paper_notes/bow.md) - Lopez 
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](paper_notes/semiGlobalMatching.md) - Hirschmüller
+* [Accuracy of fish-eye lens models](paper_notes/accuracyFisheye.md) - Hughes
 
 Maths:
 ---
@@ -78,7 +80,9 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* The Relocalization of SLAM Tracking Based on Spherical Cameras - Chang
 * Cluster-Based Loop Closing Detection for Underwater SLAM in
 Feature-Poor Regions - Negre
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
+* Keyframe-based Visual-Inertial SLAM using Nonlinear
+Optimization - Leutenegger
+* UniVIO: Unified Direct and Feature-based Underwater Stereo Visual-Inertial Odometry
