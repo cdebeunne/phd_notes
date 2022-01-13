@@ -26,6 +26,9 @@ Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [The Relocalization of SLAM Tracking Based on Spherical Cameras](paper_notes/relocSpherical.md) - Chang
 * [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](paper_notes/DMVIO.md) - Cremers
 * [Direct Sparse Odometry](paper_notes/DSO.md) - Cremers
+* [UniVIO: Unified Direct and Feature-based Underwater Stereo Visual-Inertial Odometry](paper_notes/univio.md) - Miao
+* [Cluster-Based Loop Closing Detection for Underwater SLAM in
+Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 
 
 Spatial exploration:
@@ -85,4 +88,3 @@ Feature-Poor Regions - Negre
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
 * Keyframe-based Visual-Inertial SLAM using Nonlinear
 Optimization - Leutenegger
-* UniVIO: Unified Direct and Feature-based Underwater Stereo Visual-Inertial Odometry
