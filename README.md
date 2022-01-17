@@ -29,6 +29,7 @@ Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [UniVIO: Unified Direct and Feature-based Underwater Stereo Visual-Inertial Odometry](paper_notes/univio.md) - Miao
 * [Cluster-Based Loop Closing Detection for Underwater SLAM in
 Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
+* [Tightly coupled legged robot state estimation](paper_notes/mederic.md) - thèse Fourmy
 
 
 Spatial exploration:
