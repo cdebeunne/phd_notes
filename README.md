@@ -30,6 +30,8 @@ Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [Cluster-Based Loop Closing Detection for Underwater SLAM in
 Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Tightly coupled legged robot state estimation](paper_notes/mederic.md) - thèse Fourmy
+* [A New Visual Inertial Simultaneous Localization and Mapping
+(SLAM) Algorithm Based on Point and Line Features](paper_notes/pointLineSLAM.md) - Zhang
 
 
 Spatial exploration:
@@ -90,3 +92,8 @@ Feature-Poor Regions - Negre
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
 * Keyframe-based Visual-Inertial SLAM using Nonlinear
 Optimization - Leutenegger
+* Continuous-Time vs. Discrete-Time Vision-based
+SLAM: A Comparative Study - Scaramuzza 
+* PTAM - Klein
+* A New Visual Inertial Simultaneous Localization and Mapping
+(SLAM) Algorithm Based on Point and Line Features - Zhang
