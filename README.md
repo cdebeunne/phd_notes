@@ -32,6 +32,8 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Tightly coupled legged robot state estimation](paper_notes/mederic.md) - thèse Fourmy
 * [A New Visual Inertial Simultaneous Localization and Mapping
 (SLAM) Algorithm Based on Point and Line Features](paper_notes/pointLineSLAM.md) - Zhang
+* [Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study](paper_notes/continuousVSdiscrete.md) - Scaramuzza
+* [Parallel Tracking and Mapping for Small AR Workspaces](paper_notes/ptam.md) - Klein
 
 
 Spatial exploration:
@@ -87,13 +89,10 @@ To read:
 * Direct Fisheye Stereo Correspondence Using
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
-* Cluster-Based Loop Closing Detection for Underwater SLAM in
-Feature-Poor Regions - Negre
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
 * Keyframe-based Visual-Inertial SLAM using Nonlinear
 Optimization - Leutenegger
-* Continuous-Time vs. Discrete-Time Vision-based
-SLAM: A Comparative Study - Scaramuzza 
+* Past, Present, and Future of Simultaneous
+Localization and Mapping: Toward the
+Robust-Perception Age - Scaramuzza 
 * PTAM - Klein
-* A New Visual Inertial Simultaneous Localization and Mapping
-(SLAM) Algorithm Based on Point and Line Features - Zhang

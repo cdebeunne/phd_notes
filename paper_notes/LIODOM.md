@@ -36,3 +36,5 @@ LiDAR Mapping:
 * Map of only edge points=> more sparse
 * Local map built with the cells up to a certain range of the current robot pose, it is thus *adaptive*
 
+PAPER REJECTED:
+The contribution of the paper is too small: a voxel-based map and point-line features. Feature robustness and characteristics should be detailed as it is part of the contribution. It is not proven that this new mapping gestion is more efficient than KD Trees
