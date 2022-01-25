@@ -64,6 +64,7 @@ Motion Error Analysis](paper_notes/sfmFisheye.md) - Terabayashi
 Image Sequences](paper_notes/bow.md) - Lopez 
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](paper_notes/semiGlobalMatching.md) - Hirschmüller
 * [Accuracy of fish-eye lens models](paper_notes/accuracyFisheye.md) - Hughes
+* [The Double Sphere Camera model](paper_notes/doublesphere.md) - Cremers
 
 Maths:
 ---
