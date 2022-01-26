@@ -34,6 +34,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 (SLAM) Algorithm Based on Point and Line Features](paper_notes/pointLineSLAM.md) - Zhang
 * [Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study](paper_notes/continuousVSdiscrete.md) - Scaramuzza
 * [Parallel Tracking and Mapping for Small AR Workspaces](paper_notes/ptam.md) - Klein
+* [Large-Scale Direct SLAM for Omnidirectional Cameras](paper_notes/LSDomni.md) - Cremers
 
 
 Spatial exploration:
@@ -65,6 +66,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](paper_notes/semiGlobalMatching.md) - Hirschmüller
 * [Accuracy of fish-eye lens models](paper_notes/accuracyFisheye.md) - Hughes
 * [The Double Sphere Camera model](paper_notes/doublesphere.md) - Cremers
+* [Direct Fisheye Stereo Correspondence Using Enhanced Unified Camera Model and Semi-Global Matching Algorithm](paper_notes/fisheyeStereoEnhancedModel.md) - Khomutenko
 
 Maths:
 ---
@@ -96,4 +98,3 @@ Optimization - Leutenegger
 * Past, Present, and Future of Simultaneous
 Localization and Mapping: Toward the
 Robust-Perception Age - Scaramuzza 
-* PTAM - Klein
