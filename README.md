@@ -35,6 +35,8 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study](paper_notes/continuousVSdiscrete.md) - Scaramuzza
 * [Parallel Tracking and Mapping for Small AR Workspaces](paper_notes/ptam.md) - Klein
 * [Large-Scale Direct SLAM for Omnidirectional Cameras](paper_notes/LSDomni.md) - Cremers
+* [Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization](paper_notes/KFbasedVISLAM.md) - Leutenegger
+* [RGB-D Visual SLAM Based on Yolov4-Tiny in Indoor Dynamic Environment](paper_notes/rgbdSLAM.md) - Chang
 
 
 Spatial exploration:
@@ -67,6 +69,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Accuracy of fish-eye lens models](paper_notes/accuracyFisheye.md) - Hughes
 * [The Double Sphere Camera model](paper_notes/doublesphere.md) - Cremers
 * [Direct Fisheye Stereo Correspondence Using Enhanced Unified Camera Model and Semi-Global Matching Algorithm](paper_notes/fisheyeStereoEnhancedModel.md) - Khomutenko
+* [Spherically Optimized RANSAC Aided by an IMU for Fisheye Image Matching](paper_notes/fisheyeMatching.md) - Liang
 
 Maths:
 ---
@@ -93,8 +96,7 @@ To read:
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
-* Keyframe-based Visual-Inertial SLAM using Nonlinear
-Optimization - Leutenegger
 * Past, Present, and Future of Simultaneous
 Localization and Mapping: Toward the
 Robust-Perception Age - Scaramuzza 
+* Estimation of omnidirectional camera model from epipolar geometry - Micusik
