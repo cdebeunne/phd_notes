@@ -37,6 +37,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Large-Scale Direct SLAM for Omnidirectional Cameras](paper_notes/LSDomni.md) - Cremers
 * [Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization](paper_notes/KFbasedVISLAM.md) - Leutenegger
 * [RGB-D Visual SLAM Based on Yolov4-Tiny in Indoor Dynamic Environment](paper_notes/rgbdSLAM.md) - Chang
+* [Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry](paper_notes/stereoOdomUAV.md) - Ran Duan
 
 
 Spatial exploration:
@@ -70,6 +71,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [The Double Sphere Camera model](paper_notes/doublesphere.md) - Cremers
 * [Direct Fisheye Stereo Correspondence Using Enhanced Unified Camera Model and Semi-Global Matching Algorithm](paper_notes/fisheyeStereoEnhancedModel.md) - Khomutenko
 * [Spherically Optimized RANSAC Aided by an IMU for Fisheye Image Matching](paper_notes/fisheyeMatching.md) - Liang
+* [Estimation of omnidirectional camera model from epipolar geometry](paper_notes/epiOmni.md) - Micuzik
 
 Maths:
 ---
@@ -99,4 +101,3 @@ Matching Algorithm - Khomutenko
 * Past, Present, and Future of Simultaneous
 Localization and Mapping: Toward the
 Robust-Perception Age - Scaramuzza 
-* Estimation of omnidirectional camera model from epipolar geometry - Micusik
