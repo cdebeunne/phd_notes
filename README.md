@@ -38,6 +38,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization](paper_notes/KFbasedVISLAM.md) - Leutenegger
 * [RGB-D Visual SLAM Based on Yolov4-Tiny in Indoor Dynamic Environment](paper_notes/rgbdSLAM.md) - Chang
 * [Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry](paper_notes/stereoOdomUAV.md) - Ran Duan
+* [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 
 
 Spatial exploration:
@@ -84,6 +85,11 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [MegBA: A High-Performance and Distributed Library
 for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
+
+Cave Mapping:
+---
+* [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
+* [SmartCaveDrone: 3D Cave Mapping Using UAVs as Robotic Co-Archaeologists](paper_notes/smartCaveDrone.md) - Zhang
 
 
 Talks:
