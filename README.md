@@ -51,7 +51,8 @@ Spatial exploration:
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
 * [Driving Curiosity: Mars Rover Mobility Trends During the First Seven Years](paper_notes/driving_curiosity.md) - Rankin
 * [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
-* [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
+* [Vision-Aided Inertial Navigation for Spacecraft
+Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 
 Image Processing:
 ---
@@ -90,6 +91,7 @@ Cave Mapping:
 ---
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
 * [SmartCaveDrone: 3D Cave Mapping Using UAVs as Robotic Co-Archaeologists](paper_notes/smartCaveDrone.md) - Zhang
+* [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
 
 
 Talks:
