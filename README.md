@@ -39,6 +39,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [RGB-D Visual SLAM Based on Yolov4-Tiny in Indoor Dynamic Environment](paper_notes/rgbdSLAM.md) - Chang
 * [Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry](paper_notes/stereoOdomUAV.md) - Ran Duan
 * [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
+* [ORB SLAM 3](paper_notes/orbslam3.md) - Campos
 
 
 Spatial exploration:
