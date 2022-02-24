@@ -87,6 +87,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [MegBA: A High-Performance and Distributed Library
 for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
+* [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
 
 Cave Mapping:
 ---
