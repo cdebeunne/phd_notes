@@ -9,7 +9,7 @@ Notes:
 * robust procedure for initialization
 * IMU pre integration
 * online loop detection module
-* 4 DOF pose graph optimization (?)
+* 4 DOF pose graph optimization 
 * fusion of 3 previous works: initialization IMU/cam, mobile VI odometry, graph fusion and optimisiation for VI SLAM
 * MSCKF : VIO with KF
 
@@ -36,4 +36,20 @@ Tightly coupled VIO:
 * at each new KF the latest KF and its meas are marginalized with the Schur Complement
 
 Relocalization:
-TODO
+* Relocalization scheme to eliminate drift
+* loop detection with DBOW2 with BRIEF descriptors
+* loop proposed: outlier rejection with fundamental matrix RANSAC and pnp RANSAC if inliers/nb_keypoint > thresh LOOP VALIDATED
+* relocalization: optimization of a tighlty coupled VIO with a loop closure term in the residual (ie reprojection error minimization of retrieved features) 
+* BEWARE != global pose optim
+
+Global Pose optimization:
+* roll and pitch are fully observables with VIO => only X,Y,Z and yaw are subject to drift => 4DOF pose graph optim
+* when KF is marginalized: added to pose graph
+* sequential edges: relative transformations between KF obtained by the VIO that contains only relative position and yaw
+* loop closure edges: same for lc
+* optimization with huber norm on lc residuals to reduce the impact of wrong loops
+* downsampling of KF in the pose graph to enable rt performance
+
+Experiments:
+* Use of VINS MONO for feedback control for a drone
+* Outdoor large scale exp / EUROC / Small scale iOS application
