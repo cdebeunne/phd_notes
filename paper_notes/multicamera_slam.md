@@ -33,4 +33,13 @@ Multicamera:
 * cooperative cameras: a master detect and initialize landmarks and a slave reobserves the map built by the master
 
 Perception:
+* Use active search (=searching features with prior info) as image processing framework
 * strong Harris kp are selected and a 15*15 patch around it as a descriptor
+* d>0 => positive depth, d<0 => negative depth
+* distribution of inverse depth can be projected on the image => elliptic region in gaussian case
+* prior: infinite depth ie inverse depth
+* Affine patch warping for correlation matching to predict the best current landmark appearance
+
+Experiments:
+* self calibration: estimation of euler angles between cameras -> converge to correct result
+* outdoor experiment for colaborative SLAM
