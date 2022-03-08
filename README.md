@@ -41,6 +41,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 * [ORB SLAM 3](paper_notes/orbslam3.md) - Campos
 * [Fusing Monocular Information in Multicamera SLAM](paper_notes/multicamera_slam.md) - Joan Solà
+* [LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane](paper_notes/lfvio.md) - Wang
 
 Spatial exploration:
 ---
