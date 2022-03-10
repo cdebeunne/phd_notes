@@ -91,6 +91,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
 * [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
+* [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
 
 Cave Mapping:
 ---
