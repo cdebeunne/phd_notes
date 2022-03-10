@@ -42,6 +42,8 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [ORB SLAM 3](paper_notes/orbslam3.md) - Campos
 * [Fusing Monocular Information in Multicamera SLAM](paper_notes/multicamera_slam.md) - Joan Solà
 * [LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane](paper_notes/lfvio.md) - Wang
+* [RT-SLAM: a generic and real-time visual SLAM
+implementation](paper_notes/rtSLAM.md) - Joan Solà
 
 Spatial exploration:
 ---
