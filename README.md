@@ -42,6 +42,8 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [ORB SLAM 3](paper_notes/orbslam3.md) - Campos
 * [Fusing Monocular Information in Multicamera SLAM](paper_notes/multicamera_slam.md) - Joan Solà
 * [LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane](paper_notes/lfvio.md) - Wang
+* [RT-SLAM: a generic and real-time visual SLAM
+implementation](paper_notes/rtSLAM.md) - Joan Solà
 
 Spatial exploration:
 ---
@@ -89,6 +91,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
 * [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
+* [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
 
 Cave Mapping:
 ---
