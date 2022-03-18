@@ -78,6 +78,8 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Direct Fisheye Stereo Correspondence Using Enhanced Unified Camera Model and Semi-Global Matching Algorithm](paper_notes/fisheyeStereoEnhancedModel.md) - Khomutenko
 * [Spherically Optimized RANSAC Aided by an IMU for Fisheye Image Matching](paper_notes/fisheyeMatching.md) - Liang
 * [Estimation of omnidirectional camera model from epipolar geometry](paper_notes/epiOmni.md) - Micuzik
+* [Motion And Structure from Motion in a Piecewise Planar Environment](paper_notes/planarEnv.md) - Faugeras 
+* [Exploiting Uncertainty in Random Sample Consensus](paper_notes/uncertaintyRANSAC.md) - Raguram
 
 Maths:
 ---
@@ -92,6 +94,8 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
 * [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
 * [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
+* [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
+
 
 Cave Mapping:
 ---
