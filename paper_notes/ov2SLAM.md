@@ -12,9 +12,9 @@ Notes:
 * PTAM first BA method in real time thx to parallelization
 * limits triangulation by matching the most to existing points in the map
 * CLAHE = contrast enhancement 
-* pyramidal LKT for keypoint tracking
+* pyramidal LKT for keypoint tracking (if 3D keypoints 2 levels, if 2D kp 4 levels) with reverse tracking
 * RANSAC with 5 points to estimate the essential matrix with 3D points only
-* initial guess with constant velocity assumption
+* initial guess with constant velocity assumption and then P3P RANSAC
 * outlier rejection after reprojection error
 * Keyframe creation based on parallax
 * LKT for stereo matching
@@ -25,6 +25,7 @@ Notes:
 * LC uses both keypoints from the SLAM and additionnal FAST features with BRIEF descriptors
 * Pose graph optimization to take LC into account, then for each kp its new world pose is computed as $\lambda^{w^*} = {}^w T_{\alpha}^{new} {}^{\alpha}T_w^{old} \lambda^w$
 * 200Hz SLAM by disabling LC and use of FAST features with a 50*50 pixel grid for KF creation
+
 
 Commentaires:
 ---

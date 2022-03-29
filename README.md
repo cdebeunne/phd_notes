@@ -46,6 +46,7 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [DSOL: A Fast Direct Sparse Odometry Scheme](paper_notes/dsol.md) - Chao Qu
 * [SVO: Semi-Direct Visual Odometry for Monocular and Multi-Camera Systems](paper_notes/svo.md) - Forster
+* [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](paper_notes/orbslam.md) - Murtal
 
 Spatial exploration:
 ---
