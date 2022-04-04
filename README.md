@@ -98,7 +98,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
 * [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
 * [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
-
+* [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 
 Cave Mapping:
 ---
