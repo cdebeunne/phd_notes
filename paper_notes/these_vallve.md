@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Information Metrics for Localization and Mapping
 
 Author: Joan Vallve
@@ -43,7 +42,6 @@ $$
 * With variable reordering algorithm like COLAMD
 * Incremental Cholesky and QR to make it more optimal
 * iSAM rebuilds the pb each n nodes, iSAM2 uses the bayes tree to relinearize and reorder the problem depending on how much the linearization point diverges from the estimate
-=======
 * demand computationnal time and ressources to store large matrices
 * quadratic form of the NLS is only true around the optimal solution, and the Hessian is approximated with $2A^TA$ => may contribute to divergence of the step
 
@@ -70,4 +68,24 @@ Trust region:
 Discussion:
 * Consensus as posing SLAM as a NLS problem
 * relinearization is critical in terms of accuracy of solution
->>>>>>> 239ca2d74ed32a756f3b3021de4c0f049f240ff6
+
+## III - Information theory
+
+* basic idea: the less knon a topic is, the more information you can get, information = "resolution of uncertainty"
+* self information: the information of an event $x$ is high if its probability is low $I(x) = \log \frac{1}{P(x)}$
+* Entropy = expeted amount of information from an event we know its probability distribution, the more unpredictable an experiment is, the more entropy it has:
+$$
+H(X) = E[I(X)] = -\sum P(x_i) \log P(x_i) \\
+H(X) = \log ( (2\pi e)^{n/2} |\Sigma|) \ \text{in multivariate gaussian case}
+
+$$
+* KLD describes how much a distribution probability differs from another: not symmetric, does not respect triangular inequality but positive and convex
+* Mutual Information: measures how similar P(X,Y) is to P(x)P(Y) ie is the KLD between P(X,Y) and P(X) P(Y). For SLAM it gives how much a subset of variables injects information in another one
+
+## IV - Information metric for Graph SLAM
+
+* Goal: keep as much information as possible while growing the size of the pb
+* sparsification = finding the best sparse and relinearizable approximation to the result of marginalization
+* Pose SLAM only keeps new observations if their entropy is significant
+* Markov Blanket = nodes at a distance 1 
+* 2 phases of sparsification: building a topology (defining a new set of factors with measurements models $h_k(x)$) and factor recovery (computing $z_k$ and information $\Omega_k$)
