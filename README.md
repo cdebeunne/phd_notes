@@ -47,6 +47,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [DSOL: A Fast Direct Sparse Odometry Scheme](paper_notes/dsol.md) - Chao Qu
 * [SVO: Semi-Direct Visual Odometry for Monocular and Multi-Camera Systems](paper_notes/svo.md) - Forster
 * [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](paper_notes/orbslam.md) - Murtal
+* [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
 
 Spatial exploration:
 ---
@@ -105,6 +106,7 @@ Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
 * [SmartCaveDrone: 3D Cave Mapping Using UAVs as Robotic Co-Archaeologists](paper_notes/smartCaveDrone.md) - Zhang
 * [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
+* [Lava Tube survey](paper_notes/lava_tubes.md) - multiple papers
 
 
 Talks:
