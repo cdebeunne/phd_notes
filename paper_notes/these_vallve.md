@@ -89,3 +89,21 @@ $$
 * Pose SLAM only keeps new observations if their entropy is significant
 * Markov Blanket = nodes at a distance 1 
 * 2 phases of sparsification: building a topology (defining a new set of factors with measurements models $h_k(x)$) and factor recovery (computing $z_k$ and information $\Omega_k$)
+
+Factor recovery:
+* The new set of factors produces an approximated local distribution $q(x) \sim \mathcal{N}(\hat{\mu}, \hat{\Sigma} = \hat{\Lambda}^{-1})$ with $\hat{\Lambda} = \sum_k J_k^T \Omega_k J_k $
+* We look for $\hat{z}_k$ and $\Omega_k$ that makes $q(x)$ the most similar to the dense local distribution before marg.
+$$
+\{\hat{z}_k, \Omega_k \}_{\forall k} = \argmin D_{KL}(p||q)
+$$
+* The solution in the Gaussian case:
+$$
+\hat{z}^*_k = h_k(\mu) \  \forall k \\
+\hat{\Omega}^* = \argmin tr(\hat{J}^T \hat{\Omega} \hat{J} \Sigma) - \ln |\hat{J}^T \hat{\Omega} \hat{J}| \\
+s.t. \hat{\Omega} \succ 0
+$$
+* For spanning tree topologies, $\hat{J}_k$ are invertibles, thus there is a closed for solution: $\Omega^* = (J_k \Sigma J_k^T)^{-1}$
+* More complex topologies require iterative process like Interior Point (IP) or limited memory Projected Quasi Newton (PQN)
+* Factor Descent (FD) is based on solving the problem in each factor subspace when the rest of the factors are fixed. For each factor, an analytical solution can be found
+* TYPO: indices instead of indexes in factor descent algo
+* Non cyclic FD: selecting the factor that will make the KLD decrease the most

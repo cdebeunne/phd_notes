@@ -107,6 +107,7 @@ Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
 * [SmartCaveDrone: 3D Cave Mapping Using UAVs as Robotic Co-Archaeologists](paper_notes/smartCaveDrone.md) - Zhang
 * [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
+* [Exploring Event Camera-based Odometry for Planetary Robots](paper_notes/eventPlanetary.md) - Scarramuza
 * [Lava Tube survey](paper_notes/lava_tubes.md) - multiple papers
 
 
