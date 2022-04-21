@@ -101,6 +101,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
 * [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 * [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
+* [Nonlinear Graph Sparsification for SLAM](paper_notes/sparsif.md) - Mazuran
 
 Cave Mapping:
 ---
