@@ -107,3 +107,22 @@ $$
 * Factor Descent (FD) is based on solving the problem in each factor subspace when the rest of the factors are fixed. For each factor, an analytical solution can be found
 * TYPO: indices instead of indexes in factor descent algo
 * Non cyclic FD: selecting the factor that will make the KLD decrease the most
+
+Topology:
+* Chow-Liu tree recalls on mutual information between all pairs of nodes 
+* topology population = number $K$ of factors contained in a sub graph
+* two criterias: should connect all the nodes, and their should be only one factor per node pair => $K \in [n-1, \frac{n(n-1)}{2}]$
+* downdate: updating covariance (ie. downdate information) after CLT and perform CLT again
+* expected KLD decrease: starting from CLT, then add the factor that will make the KLD decrease the most in FD iteration
+* Off diagonal: starting from spanning tree and adding factors based on off diagonal block initialization
+
+MultiNode marginalization:
+* multinode Markov blanket are bigger => higher computation time
+* TYPO: figure 4.4 an sparsification
+* multinode interesting when graph is not too much connected
+
+Experiments:
+* PQN discarded as it has slow convergence
+* initialization: ODB (off diagonal block) is the best for small markov blanket, First cycle of factor descent is better for lager MB
+* for real SLAM pb: remove one node every N, the problem of node selection is not tackled 
+* Significant tuning required for IP
