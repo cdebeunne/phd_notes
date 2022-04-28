@@ -112,6 +112,10 @@ Cave Mapping:
 * [Exploring Event Camera-based Odometry for Planetary Robots](paper_notes/eventPlanetary.md) - Scarramuza
 * [Lava Tube survey](paper_notes/lava_tubes.md) - multiple papers
 
+Localization:
+---
+* [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
+
 
 Talks:
 ---
