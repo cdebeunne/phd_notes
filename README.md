@@ -103,6 +103,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
 * [Nonlinear Graph Sparsification for SLAM](paper_notes/sparsif.md) - Mazuran
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/sparsifVIO.md) - Kaess
+* [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
 
 Cave Mapping:
 ---
@@ -121,6 +122,7 @@ Talks:
 ---
 * [Dynamic Environments in Least Squares SLAM](paper_notes/dynamicEnv_talk.md) - Stachniss
 * [Where Can Machine Learning Help Robotic State Estimation?](paper_notes/barfoot_talk.md) - Barfoot
+* [Kimera: from classical SLAM to 3D spatial perception](paper_notes/kimera.md) - Rosinol
 
 To read:
 ---
