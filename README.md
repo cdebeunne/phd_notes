@@ -48,6 +48,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [SVO: Semi-Direct Visual Odometry for Monocular and Multi-Camera Systems](paper_notes/svo.md) - Forster
 * [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](paper_notes/orbslam.md) - Murtal
 * [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
+* [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
 
 Spatial exploration:
 ---
