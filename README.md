@@ -106,6 +106,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/sparsifVIO.md) - Kaess
 * [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
 * [Nonlinear Factor Recovery for Long-Term SLAM](paper_notes/ltslam.md) - Mazuran
+* [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco
 
 Cave Mapping:
 ---
