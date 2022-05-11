@@ -60,3 +60,14 @@ work which is more amenable to analysis
 
 Active SLAM:
 * problem of controlling robots motion in order to minimize the uncertainty of its map representation and localisation
+* 3 steps:
+    * selecting vantage points
+    * computing the utility of each action thinking about the evolution of the posterior over the robot pose and the map
+    * estimating if a task is over
+* predicting the effects of future action is an expensive task => when do we switch between active SLAM and passive SLAM
+
+New frontiers:
+* new sensors: depth cameras, light field cameras (?)
+* event based: doesn't send frame, but only pixel changes, 1MHZ, 140dB of dynamic range => SLAM for high speed motion and high dynamic range
+* BUT high frame rate makes SLAM intractable because of amount of data, low spatial resolution
+* deep learning: depth estimation, 6DOF localization, inter frame pose with DNN

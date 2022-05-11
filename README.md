@@ -85,6 +85,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Estimation of omnidirectional camera model from epipolar geometry](paper_notes/epiOmni.md) - Micuzik
 * [Motion And Structure from Motion in a Piecewise Planar Environment](paper_notes/planarEnv.md) - Faugeras 
 * [Exploiting Uncertainty in Random Sample Consensus](paper_notes/uncertaintyRANSAC.md) - Raguram
+* [Benefit of Large Field-of-View Cameras for Visual Odometry](paper_notes/benef_large_fov.md) - Zhang
 
 Maths:
 ---
