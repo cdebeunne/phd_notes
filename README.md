@@ -108,6 +108,8 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
 * [Nonlinear Factor Recovery for Long-Term SLAM](paper_notes/ltslam.md) - Mazuran
 * [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco
+* [C-KLAM: Constrained Keyframe-Based Localization and Mapping
+] - Nerurkar
 
 Cave Mapping:
 ---
