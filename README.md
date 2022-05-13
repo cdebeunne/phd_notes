@@ -110,7 +110,8 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco
 * [Long-Term Simultaneous Localization and Mapping with Generic Linear Constraint Node Removal](paper_notes/longterm_slam_glc.md) - Bianco
 * [C-KLAM: Constrained Keyframe-Based Localization and Mapping
-] - Nerurkar
+](paper_notes/cklam.md) - Nerurkar
+* [Approximating Discrete Probability Distributions with Dependence Trees](paper_notes/approximatingCLT.md) - Chow & Liu
 
 Cave Mapping:
 ---
