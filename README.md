@@ -118,6 +118,7 @@ Cave Mapping:
 * [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
 * [Exploring Event Camera-based Odometry for Planetary Robots](paper_notes/eventPlanetary.md) - Scarramuza
 * [Lava Tube survey](paper_notes/lava_tubes.md) - multiple papers
+* [Lava tubes on Earth, Moon and Mars: A review on their size and morphology revealed by comparative planetology](paper_notes/lavatubes_earthmoonmars.md) - Sauro
 
 Localization:
 ---
