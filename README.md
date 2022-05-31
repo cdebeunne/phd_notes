@@ -50,6 +50,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
 * [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
 * [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
+* [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 
 Spatial exploration:
 ---
