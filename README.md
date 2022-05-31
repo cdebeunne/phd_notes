@@ -49,6 +49,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](paper_notes/orbslam.md) - Murtal
 * [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
 * [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
+* [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
 
 Spatial exploration:
 ---
@@ -86,6 +87,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Motion And Structure from Motion in a Piecewise Planar Environment](paper_notes/planarEnv.md) - Faugeras 
 * [Exploiting Uncertainty in Random Sample Consensus](paper_notes/uncertaintyRANSAC.md) - Raguram
 * [Benefit of Large Field-of-View Cameras for Visual Odometry](paper_notes/benef_large_fov.md) - Zhang
+* [BabelCalib: A Universal Approach to Calibrating Central Cameras](paper_notes/babel_calib.md) - Lochman
 
 Maths:
 ---
