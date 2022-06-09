@@ -52,6 +52,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 * [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
+* [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
 
 Spatial exploration:
 ---
@@ -144,6 +145,3 @@ To read:
 Enhanced Unified Camera Model and Semi-Global
 Matching Algorithm - Khomutenko
 * Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
-* Past, Present, and Future of Simultaneous
-Localization and Mapping: Toward the
-Robust-Perception Age - Scaramuzza 
