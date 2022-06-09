@@ -51,6 +51,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
 * [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
+* [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
 
 Spatial exploration:
 ---
@@ -107,7 +108,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 * [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
 * [Nonlinear Graph Sparsification for SLAM](paper_notes/sparsif.md) - Mazuran
-* [Information Sparsification in Visual-Inertial Odometry](paper_notes/sparsifVIO.md) - Kaess
+* [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
 * [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
 * [Nonlinear Factor Recovery for Long-Term SLAM](paper_notes/ltslam.md) - Mazuran
 * [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco

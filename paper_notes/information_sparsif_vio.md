@@ -26,8 +26,9 @@ Problem:
 
 System:
 * marginalization is done with Schur Complement on linearized information matrix of the markov blanket
+* mid frame marginalization: if a KF is not voted: all projection factors are discarded, but only include inertial constraint
 * Figure 3 is excellent!
-* When a KF is voted, the last one is marginalized with all the landmarks only associated to it, but the other one are kept (unlike VINS MONO and co.)
+* KF marginalization: When a KF is voted, the last one is marginalized with all the landmarks only associated to it, but the other one are kept (unlike VINS MONO and co.)
 * topology: independent **unary prior factors** between the frames and **relative pose factors** (interesting) with all landmarks
 * Covariances recovery is computed in closed form as measurements models always provide full rank invertibles jacobian
 
