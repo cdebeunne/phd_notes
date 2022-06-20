@@ -53,6 +53,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 * [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
+* [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
 
 Spatial exploration:
 ---
@@ -91,6 +92,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Exploiting Uncertainty in Random Sample Consensus](paper_notes/uncertaintyRANSAC.md) - Raguram
 * [Benefit of Large Field-of-View Cameras for Visual Odometry](paper_notes/benef_large_fov.md) - Zhang
 * [BabelCalib: A Universal Approach to Calibrating Central Cameras](paper_notes/babel_calib.md) - Lochman
+* [Site de Michel Toby](paper_notes/michel_tobby.md) - Michel Toby
 
 Maths:
 ---
