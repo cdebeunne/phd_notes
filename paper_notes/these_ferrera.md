@@ -47,3 +47,20 @@ Robust Underwater SLAM:
 * retracking of lost features in a small window
 * Pose Estimation with P3P RANSAC + refinement with BA
 * initialization: once enough parallax is detected then KF voted and Essential matrix computed
+* Ordering to exploit the sparse structure of the problem
+* Fixed number of iteration + outlier removal + optimization on inlier only
+
+Experiments:
+* 25ms avg run time with 250 features per frame
+* More robust than SVO and ORB SLAM under UW disturbances
+
+Tight Visual-Inertial-Pressure Fusion for UW scenarios:
+* pressure sensor gives depth wrt to the surface
+* uses relative depth wrt to the initial depth in the problem
+$$
+d_i = _{raw} d_i - _{raw}d_0
+$$
+* problem of camera-depth misalignement: the reference frame for depth measurement is unknown, the camera looking at the ground and noting $\alpha$ the misalignement between z axis of first frame we have:
+$$
+d_i = t^z_{c_0 c_i} \cos (\alpha)
+$$

@@ -54,6 +54,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
 * [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
+* [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
 
 Spatial exploration:
 ---
