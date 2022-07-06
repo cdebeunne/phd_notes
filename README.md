@@ -94,6 +94,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Benefit of Large Field-of-View Cameras for Visual Odometry](paper_notes/benef_large_fov.md) - Zhang
 * [BabelCalib: A Universal Approach to Calibrating Central Cameras](paper_notes/babel_calib.md) - Lochman
 * [Site de Michel Toby](paper_notes/michel_tobby.md) - Michel Toby
+* [SuperPoint: Self-Supervised Interest Point Detection and Description](paper_notes/superpoint.md) - De Tone
 
 Maths:
 ---

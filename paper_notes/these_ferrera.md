@@ -64,3 +64,15 @@ $$
 $$
 d_i = t^z_{c_0 c_i} \cos (\alpha)
 $$
+* Explore different strategies to integrate depth measurement:
+    * Comparison with the z-axis component of the pose $X_i$, easy but it neglects the misalignement with the depth axis
+    *  Comparing the relative depth difference between each KF and its 10 preceeding KF: trade off between accuracy and consistency by choosing the number of KF to deal with
+* In initialization, scale of the translation form essential matrix computation is recovered with delta depth between KF
+* Gauge fixing = fixing keyframes in BA to prevent from 7DOF drift 
+* Free Gauge: In initalization, only the translation of the first KF is fixed. Its rotation is free, so that it can align with depth axis
+* results: best strategy is relative depth with free gauge init
+
+Visual Inertial Pressure SLAM:
+* using classical pre integration factors
+* more robust and can handle short loss of visual information
+* suggest investigating marginalization for futur work
