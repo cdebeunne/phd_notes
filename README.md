@@ -68,6 +68,7 @@ Spatial exploration:
 * [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
+* [An Innovative Pose Determination Algorithm for Planetary Rover Onboard Visual Odometry](paper_notes/an_inovative_pose_rover.md) - Zhou 
 
 Image Processing:
 ---
