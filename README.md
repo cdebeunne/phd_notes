@@ -136,6 +136,9 @@ Localization:
 ---
 * [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
 
+Traversability:
+---
+* [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 
 Talks:
 ---
