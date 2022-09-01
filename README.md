@@ -66,9 +66,9 @@ Spatial exploration:
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
 * [Driving Curiosity: Mars Rover Mobility Trends During the First Seven Years](paper_notes/driving_curiosity.md) - Rankin
 * [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
+[Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
-* [Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 
 Image Processing:
 ---
@@ -136,6 +136,9 @@ Localization:
 ---
 * [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
 
+Traversability:
+---
+* [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 
 Talks:
 ---
@@ -143,10 +146,12 @@ Talks:
 * [Where Can Machine Learning Help Robotic State Estimation?](paper_notes/barfoot_talk.md) - Barfoot
 * [Kimera: from classical SLAM to 3D spatial perception](paper_notes/kimera.md) - Rosinol
 
-To read:
+Traversability map:
 ---
-* DTAM: Dense Tracking and Mapping in Real-Time - Davison
-* Direct Fisheye Stereo Correspondence Using
-Enhanced Unified Camera Model and Semi-Global
-Matching Algorithm - Khomutenko
-* Self-supervised stereo depth estimation based on bi-directional pixel-movement learning - Wang
+
+* Sock - Probabilistic Traversability Map Generation Using 3D-LIDAR and
+Camera
+* Rankin - Stereo vision based terrain mapping for off-road autonomous
+navigation
+* Guan - TNS: Terrain Traversability Mapping and
+Navigation System for Autonomous Excavators
