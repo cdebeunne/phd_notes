@@ -68,6 +68,7 @@ Spatial exploration:
 * [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
+* [Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 
 Image Processing:
 ---
