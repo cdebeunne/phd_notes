@@ -66,7 +66,7 @@ Spatial exploration:
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
 * [Driving Curiosity: Mars Rover Mobility Trends During the First Seven Years](paper_notes/driving_curiosity.md) - Rankin
 * [Visual SLAM-Based Robotic Mapping Method for Planetary Construction](paper_notes/planetarySLAM.md) - Hong
-[Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
+* [Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 
@@ -139,6 +139,7 @@ Localization:
 Traversability:
 ---
 * [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
+* [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
 
 Talks:
 ---
