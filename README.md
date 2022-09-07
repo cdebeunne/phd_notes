@@ -55,6 +55,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
 * [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
 * [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
+* [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rossinol
 
 Spatial exploration:
 ---
