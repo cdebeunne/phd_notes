@@ -12,7 +12,7 @@ Notes:
 
 three-part problem formulation:
 * distinction between: prior, measurements and process model
-* the prior is about the first pose and the map (How do we process a prior in optimization?)
+* the prior is about the first pose and the map (How do we process a prior in optimization?), thus information matrix size of the prior is $6 + 3 n$
 * Gauss Newton method is locally q-quadratically convergent to the map estimate for near zero residuals pb
 * $J^T \Sigma^{-1} J$ ie. the Hessian approximate is the Fisher Information Matrix 
 * Strucutre of Jacobians:
@@ -26,9 +26,18 @@ Overview:
 * In Gauss Newton method, the covariance is approximated by the Hessian
 * In SWF if k=1, this is equivalent to iterative EKF
 * Use of a robust Huber Kernel
+
+Marginalization:
+* Concerns first pose and the map 
+$$
+x_\pi = [ x_m , x_{p_1}]^T
+$$
+* marginalizing a landmark with no support do not cause additionnal fill in
+* pb schur complement is cubic in size of active vector->incremental marginalization
 * Effect of marginalization:
     * fill in in the global information matrix 
     * pose to landmark conditionnal dependence => encodes rigidity constraint 
+
 
 Experiments:
 * Flea cams in stereo config and narrow FoV, 15 Hz

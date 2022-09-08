@@ -22,18 +22,16 @@ Measurement pre processing:
 Initialization:
 * aligning IMU pre integration with vision only structure
 * Sfm on more than 30 tracked features on a sliding window with arbitrary scale:
--> pose of the first and last frame estimated with 5 pt alg
-
--> triangulation and PnP alg to estimate the pose of each frame
-
--> full bundle adjustement on the sliding window
+    * pose of the first and last frame estimated with 5 pt alg
+    * triangulation and PnP alg to estimate the pose of each frame
+    * full bundle adjustement on the sliding window
 * calibration of gyro bias, then gravity and metric scale with linear least square pbs
 
 Tightly coupled VIO:
 * visual inertial bundle adjustement formulation
 * define the camera measurement residual on a unit sphere
 * the two rays are substracted and the resultant vector is projected on a tangent plane
-* at each new KF the latest KF and its meas are marginalized with the Schur Complement
+* at each new KF the latest KF and its meas are marginalized with the Schur Complement, but early fix of the linearization point to reduce complexity => suboptimal solution
 
 Relocalization:
 * Relocalization scheme to eliminate drift
