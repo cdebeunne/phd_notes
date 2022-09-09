@@ -97,6 +97,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [BabelCalib: A Universal Approach to Calibrating Central Cameras](paper_notes/babel_calib.md) - Lochman
 * [Site de Michel Toby](paper_notes/michel_tobby.md) - Michel Toby
 * [SuperPoint: Self-Supervised Interest Point Detection and Description](paper_notes/superpoint.md) - De Tone
+* [FLaME: Fast Lightweight Mesh Estimation using Variational Smoothing on Delaunay Graphs](paper_notes/FLaMe.md) - Greene
 
 Maths:
 ---
