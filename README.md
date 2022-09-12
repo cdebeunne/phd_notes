@@ -98,6 +98,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Site de Michel Toby](paper_notes/michel_tobby.md) - Michel Toby
 * [SuperPoint: Self-Supervised Interest Point Detection and Description](paper_notes/superpoint.md) - De Tone
 * [FLaME: Fast Lightweight Mesh Estimation using Variational Smoothing on Delaunay Graphs](paper_notes/FLaMe.md) - Greene
+* [Real-Time Direct Dense Matching on Fisheye Images Using Plane-Sweeping Stereo](paper_notes/real_time_direct_dense_plane_sweeping.md) - Häne
 
 Maths:
 ---
