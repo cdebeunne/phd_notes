@@ -99,7 +99,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [SuperPoint: Self-Supervised Interest Point Detection and Description](paper_notes/superpoint.md) - De Tone
 * [FLaME: Fast Lightweight Mesh Estimation using Variational Smoothing on Delaunay Graphs](paper_notes/FLaMe.md) - Greene
 * [Real-Time Direct Dense Matching on Fisheye Images Using Plane-Sweeping Stereo](paper_notes/real_time_direct_dense_plane_sweeping.md) - Häne
-* [On the Accuracy of Dense Fisheye Stereo](paper_notes/on_the_accuracy.md) - Schneider
+* [On the Accuracy of Dense Fisheye Stereo](paper_notes/on_the_accuracy_of_dense_fisheye.md) - Schneider
 
 Maths:
 ---
@@ -144,6 +144,7 @@ Traversability:
 ---
 * [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 * [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
+* [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
 
 Talks:
 ---
