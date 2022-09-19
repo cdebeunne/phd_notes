@@ -100,6 +100,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [FLaME: Fast Lightweight Mesh Estimation using Variational Smoothing on Delaunay Graphs](paper_notes/FLaMe.md) - Greene
 * [Real-Time Direct Dense Matching on Fisheye Images Using Plane-Sweeping Stereo](paper_notes/real_time_direct_dense_plane_sweeping.md) - Häne
 * [On the Accuracy of Dense Fisheye Stereo](paper_notes/on_the_accuracy_of_dense_fisheye.md) - Schneider
+* [Spherical Image Processing for Accurate Visual Odometry with Omnidirectional Cameras](paper_notes/spherical_image_processing_4_VO.md) - Hicham Hadj-Abdelkader
 
 Maths:
 ---
