@@ -61,7 +61,7 @@ Spatial exploration:
 ---
 * [Two Years of Visual Odometry on the Mars Exploration Rovers](paper_notes/mars_rover.md) - Mark Maimone
 * [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard
-* [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/MER_gestalt.md) - Mark Maimone
+* [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/stereo_vision_GESTALT.md) - Mark Maimone
 * [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
 * [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
@@ -70,6 +70,7 @@ Spatial exploration:
 * [Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
+* [Training a terrain traversability classifier for a planetary rover through simulation](paper_notes/training_a_terrain_trav_classif.md) - Hewitt
 
 Image Processing:
 ---
