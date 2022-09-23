@@ -15,5 +15,10 @@ Notes:
 
 ### Equal-epiline Subdivision on Geodesic Grid
 
+* No mathematicall relation between 3D image and 2D plane with a geodesic grid
 * uses a icosahedral geodesic polyhedron as a geodesic grid (20 faces, 30 edges, and 12 vertices)
-* when $\pi$ and $\pi^{-1}$ are not defined mathematically, we need a look up table that is computationnally expensive
+* when $\pi$ and $\pi^{-1}$ are not defined mathematically, we need a look up table that is computationnally expensive especially many forward and backward projection are needed for stereo matching
+* the principal polyhedral triangles can be subdivided to refine the resolution of the grid
+* subdivision of the polyhedron that divides epiline equally
+* epipolar lines are represented as three connected straight lines on the 2D image
+* stereo matching simplified with hexagonal shaped matching block
