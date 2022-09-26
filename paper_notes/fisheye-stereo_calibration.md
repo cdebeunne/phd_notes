@@ -28,15 +28,15 @@ $$
 x_v = f_{x,v} r_x (\psi) + c_{x,v} \ , \ y_v = f_{y,v} r_y (\beta) + c_{y,v}
 $$
 * for example the cylindrical rectification is given by 
+
 $$
 r_x (\psi) = \tan (\psi) \ , \ r_y(\beta) =  \beta
 $$
-
 * To get the value of the pixel $\mathbf{x}_v$, we come back to the original image like this:
+
 $$
 \mathbf{x}_c = \pi \left ( {}^c R_v \pi^{-1}(\mathbf{x}_v) \right )
 $$
-
 ### Calibration and Experiments
 
 * calibration software doing BA
