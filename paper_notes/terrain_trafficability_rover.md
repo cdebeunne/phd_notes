@@ -19,6 +19,8 @@ Notes:
 * soil void ratio can be computed from thermal data (IR multispectral)
 * use of ground penetrating radar to classify ground type, low mass (45g) and low power (1W)
 * MER rovers carry image based terrain characterising algorithms: identify rocky and sandy areas, slopes and dangerous areas: but computationnally expensive algorithms and ambiguities 
+* to read: *Localization and physical property experiments
+conducted by Opportunity at Meridiani Planum*
 * LiDAR are more robust, but require more power, data compression and do not provide information on the soil substrate
 * Mars surface missions have not instrument to measure physical properties of the soil, only estimates in situ (dans son milieu) shear strength (resistance au cisaillement) and density with rover mechanical interaction => use of penetrometer in other missions
 * quantitative description of wheel performance: soil vertical deformation (weight and slip) and soil shear deformation (due to tractive thrust) => enhance control algorithm
@@ -30,3 +32,6 @@ Notes:
 * cone penetrometer to asses the ability of a given vehicle to be supported by the terrain
 
 ### Trade off 
+
+* nb of soil parameters / top surface features / sub surface features / depth of penetration and soil / calibration requirement / area coverage / resolution / mass / time for deployement
+* big score for stereo setup, better than lidars, slightly less than gpr
