@@ -56,12 +56,13 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
 * [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
 * [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rossinol
+* [Dynam-SLAM: An Accurate, Robust Stereo Visual-Inertial SLAM Method in Dynamic Environments](paper_notes/dynam_slam.md) - Yin
 
 Spatial exploration:
 ---
 * [Two Years of Visual Odometry on the Mars Exploration Rovers](paper_notes/mars_rover.md) - Mark Maimone
 * [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard
-* [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/MER_gestalt.md) - Mark Maimone
+* [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/stereo_vision_GESTALT.md) - Mark Maimone
 * [Robust and Efficient Stereo Feature Tracking for Visual Odometry](paper_notes/VO_MSL.md) - Johnson
 * [Vision-Based Navigation for the NASA Mars Helicopter](paper_notes/maven_ingenuity.md) - Bayard
 * [The Lander Vision System for Mars 2020 Entry Descent and Landing](paper_notes/perseverance_lvs.md) - Johnson
@@ -70,6 +71,7 @@ Spatial exploration:
 * [Sliding Window Filter with Application to Planetary Landing](paper_notes/sliding_window_landing.md) - Gabe Sibley
 * [Vision-Aided Inertial Navigation for Spacecraft
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
+* [Training a terrain traversability classifier for a planetary rover through simulation](paper_notes/training_a_terrain_trav_classif.md) - Hewitt
 
 Image Processing:
 ---
@@ -100,6 +102,9 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [FLaME: Fast Lightweight Mesh Estimation using Variational Smoothing on Delaunay Graphs](paper_notes/FLaMe.md) - Greene
 * [Real-Time Direct Dense Matching on Fisheye Images Using Plane-Sweeping Stereo](paper_notes/real_time_direct_dense_plane_sweeping.md) - Häne
 * [On the Accuracy of Dense Fisheye Stereo](paper_notes/on_the_accuracy_of_dense_fisheye.md) - Schneider
+* [Spherical Image Processing for Accurate Visual Odometry with Omnidirectional Cameras](paper_notes/spherical_image_processing_4_VO.md) - Hicham Hadj-Abdelkader
+* [Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching](paper_notes/uniform_subdivision_omni_stereo.md) - Kang
+* [Fish-eye-stereo calibration and epipolar rectification](paper_notes/fisheye-stereo_calibration.md) - Abraham
 
 Maths:
 ---
