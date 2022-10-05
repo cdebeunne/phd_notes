@@ -55,7 +55,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
 * [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
 * [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
-* [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rossinol
+* [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rosinol
 * [Dynam-SLAM: An Accurate, Robust Stereo Visual-Inertial SLAM Method in Dynamic Environments](paper_notes/dynam_slam.md) - Yin
 
 Spatial exploration:
@@ -105,6 +105,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Spherical Image Processing for Accurate Visual Odometry with Omnidirectional Cameras](paper_notes/spherical_image_processing_4_VO.md) - Hicham Hadj-Abdelkader
 * [Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching](paper_notes/uniform_subdivision_omni_stereo.md) - Kang
 * [Fish-eye-stereo calibration and epipolar rectification](paper_notes/fisheye-stereo_calibration.md) - Abraham
+* [Smooth Mesh Estimation from Depth Data using Non-Smooth Convex Optimization](paper_notes/smooth_mesh_estimation.md) - Rosinol
 
 Maths:
 ---
