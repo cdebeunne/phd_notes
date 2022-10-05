@@ -132,6 +132,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [C-KLAM: Constrained Keyframe-Based Localization and Mapping
 ](paper_notes/cklam.md) - Nerurkar
 * [Approximating Discrete Probability Distributions with Dependence Trees](paper_notes/approximatingCLT.md) - Chow & Liu
+* [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
 
 Cave Mapping:
 ---
