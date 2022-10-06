@@ -57,6 +57,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
 * [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rosinol
 * [Dynam-SLAM: An Accurate, Robust Stereo Visual-Inertial SLAM Method in Dynamic Environments](paper_notes/dynam_slam.md) - Yin
+* [VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](paper_notes/vitamine-e.md) - Yokozuka
 
 Spatial exploration:
 ---
