@@ -154,6 +154,7 @@ Traversability:
 * [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 * [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
 * [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
+* [3D Navigation Mesh Generation for Path Planning in Uneven Terrain](paper_notes/3d_navigation_mesh.md) - Pütz
 
 Talks:
 ---
