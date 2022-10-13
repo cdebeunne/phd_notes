@@ -107,6 +107,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching](paper_notes/uniform_subdivision_omni_stereo.md) - Kang
 * [Fish-eye-stereo calibration and epipolar rectification](paper_notes/fisheye-stereo_calibration.md) - Abraham
 * [Smooth Mesh Estimation from Depth Data using Non-Smooth Convex Optimization](paper_notes/smooth_mesh_estimation.md) - Rosinol
+* [Spherical FAST Corner Detector](paper_notes/spherical_fast.md) - Kitamura
 
 Maths:
 ---
