@@ -109,6 +109,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Fish-eye-stereo calibration and epipolar rectification](paper_notes/fisheye-stereo_calibration.md) - Abraham
 * [Smooth Mesh Estimation from Depth Data using Non-Smooth Convex Optimization](paper_notes/smooth_mesh_estimation.md) - Rosinol
 * [Spherical FAST Corner Detector](paper_notes/spherical_fast.md) - Kitamura
+* [3FO: The Three-Frame-Only Approach for Fast and Accurate Monocular SLAM Initialization](paper_notes/3fo_the_three_frame_only.md) - Zhang
 
 Maths:
 ---
