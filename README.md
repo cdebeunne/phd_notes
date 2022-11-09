@@ -59,6 +59,9 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Dynam-SLAM: An Accurate, Robust Stereo Visual-Inertial SLAM Method in Dynamic Environments](paper_notes/dynam_slam.md) - Yin
 * [VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](paper_notes/vitamine-e.md) - Yokozuka
 * [Present and Future of SLAM in Extreme Underground Environments](paper_notes/present_and_future_SLAM_xtrem.md)  - Carlone
+* [On the Comparison of Gauge Freedom Handling in Optimization-based Visual-Inertial State Estimation](paper_notes/on_the_comparison_of_gauge.md) - Zhang
+* [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
+* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 
 Spatial exploration:
 ---
