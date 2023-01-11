@@ -61,6 +61,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 * [Stereo Visual Odometry with Automatic Brightness Adjustment and Feature Tracking Prediction](paper_notes/stereo_visual_odom_auto_brightness.md) - Yin
+* [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
 
 Spatial exploration:
 ---
