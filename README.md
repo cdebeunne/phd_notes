@@ -63,6 +63,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Stereo Visual Odometry with Automatic Brightness Adjustment and Feature Tracking Prediction](paper_notes/stereo_visual_odom_auto_brightness.md) - Yin
 * [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
 * [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
+* [Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization](paper_notes/direct_sparse_vio.md) - Cremers
 
 Spatial exploration:
 ---
