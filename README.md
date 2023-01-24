@@ -38,7 +38,6 @@ Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
 * [Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization](paper_notes/KFbasedVISLAM.md) - Leutenegger
 * [RGB-D Visual SLAM Based on Yolov4-Tiny in Indoor Dynamic Environment](paper_notes/rgbdSLAM.md) - Chang
 * [Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry](paper_notes/stereoOdomUAV.md) - Ran Duan
-* [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 * [ORB SLAM 3](paper_notes/orbslam3.md) - Campos
 * [Fusing Monocular Information in Multicamera SLAM](paper_notes/multicamera_slam.md) - Joan Solà
 * [LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane](paper_notes/lfvio.md) - Wang
@@ -50,7 +49,6 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
 * [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
 * [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
-* [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 * [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
 * [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
@@ -64,6 +62,9 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 * [Stereo Visual Odometry with Automatic Brightness Adjustment and Feature Tracking Prediction](paper_notes/stereo_visual_odom_auto_brightness.md) - Yin
 * [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](paper_notes/nice_slam.md) - Zhu
+* [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
+* [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
+* [Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization](paper_notes/direct_sparse_vio.md) - Cremers
 
 Spatial exploration:
 ---
@@ -156,6 +157,7 @@ Cave Mapping:
 Localization:
 ---
 * [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
+* [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 
 Traversability:
 ---
@@ -163,6 +165,12 @@ Traversability:
 * [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
 * [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
 * [3D Navigation Mesh Generation for Path Planning in Uneven Terrain](paper_notes/3d_navigation_mesh.md) - Pütz
+
+Datasets:
+---
+* [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
+* [4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions](paper_notes/4seasons_dataset.md) - Wenzel
+
 
 Talks:
 ---
