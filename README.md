@@ -144,6 +144,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Approximating Discrete Probability Distributions with Dependence Trees](paper_notes/approximatingCLT.md) - Chow & Liu
 * [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
 * [Gaussian Mixture Midway-Merge for Object SLAM with Pose Ambiguity](paper_notes/gaussian_mixture_objectslam.md) - Jung
+* [Generic Node Removal for Factor-Graph SLAM](paper_notes/generic_node_removal.md) - Bianco
 
 Cave Mapping:
 ---
@@ -153,6 +154,7 @@ Cave Mapping:
 * [Exploring Event Camera-based Odometry for Planetary Robots](paper_notes/eventPlanetary.md) - Scarramuza
 * [Lava Tube survey](paper_notes/lava_tubes.md) - multiple papers
 * [Lava tubes on Earth, Moon and Mars: A review on their size and morphology revealed by comparative planetology](paper_notes/lavatubes_earthmoonmars.md) - Sauro
+* [Efficient Large-Scale 3D Mobile Mapping and Surface Reconstruction of an Underground Mine](paper_notes/nice_slam.md) - Zlot
 
 Localization:
 ---
