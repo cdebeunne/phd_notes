@@ -117,6 +117,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Spherical FAST Corner Detector](paper_notes/spherical_fast.md) - Kitamura
 * [3FO: The Three-Frame-Only Approach for Fast and Accurate Monocular SLAM Initialization](paper_notes/3fo_the_three_frame_only.md) - Zhang
 * [Non-Iterative, Feature-Preserving Mesh Smoothing](paper_notes/non_iterative_mesh_smoothing.md) - Jones
+* [Real-Time 6D Stereo Visual Odometry with Non-Overlapping Fields of View](paper_notes/real-time_non-overlapping.md) - Kazik
 
 Maths:
 ---
