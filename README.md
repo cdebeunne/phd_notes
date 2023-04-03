@@ -65,6 +65,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
 * [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
 * [Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization](paper_notes/direct_sparse_vio.md) - Cremers
+* [Lightweight Semantic Mesh Mapping for Autonomous Vehicles](paper_notes/lightweight_semantic_mesh.md) - Herb
 
 Spatial exploration:
 ---
