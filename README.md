@@ -66,6 +66,9 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
 * [Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization](paper_notes/direct_sparse_vio.md) - Cremers
 * [Lightweight Semantic Mesh Mapping for Autonomous Vehicles](paper_notes/lightweight_semantic_mesh.md) - Herb
+* [Real-Time CPU-Based Large-Scale Three-Dimensional Mesh Reconstruction](paper_notes/real_time_mesh_reconstruction.md) - Piazza
+* [3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices](paper_notes/3d_modeling_on_the_go.md) - Schöps
+* [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
 
 Spatial exploration:
 ---
