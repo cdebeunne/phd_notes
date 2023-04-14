@@ -48,4 +48,4 @@ This paper deals with a visual odometry system based on both event and RGBD sens
 
 ### Related work
 
-The analysis of related works is provided in the introduction section of the paper. The context of the research is well justified and documented.Many references are highlighted concerning event-based methods and all the problematics tackled in the paper are documented. However, it lacks references concerning RGBD based SLAM (like KINECT Fusion) that is one of the sensor used in this study.
+The analysis of related works is provided in the introduction section of the paper. The context of the research is well justified and documented.Many references are highlighted concerning event-based methods and all the problematics tackled in the paper are documented. However, it lacks references concerning RGBD based SLAM (e.g. *KinectFusion: Real-Time Dense Surface Mapping and Tracking* (Newcombe) or *An Evaluation of the RGB-D SLAM System* (Endres)) that is one of the sensor used in this study.
