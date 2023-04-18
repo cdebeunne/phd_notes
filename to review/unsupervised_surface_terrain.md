@@ -1,0 +1,9 @@
+# Unsupervised Surface-to-Orbit View Generation of Planetary Terrain
+
+Author: Chase
+
+Year: 2023
+
+Review:
+---
+This paper proposes an unsupervised learning method to generate realitic orbit views from surface views taken from an UGV, for machine learning model training. Geometrical method like Inverse Perspective Mapping (IPM) produce unatural stretching and blurring of images. The proposed method leverages Generative Adversarial Networks (GAN) to generate a set of incrementally oriented images from surface to orbit view with improved visual fidelity. The generator is a standard downsample-bottleneck-upsample model that takes as input a surface image and a set of perspective transformation that are performed in the bottleneck of the network. Three different discriminators with the same architectures are trained for different scales of images. The objective function evaluate features similarity w.r.t. IPM images. It is based on a combination of a GAN loss, a feature matching loss and a perceptual loss based on VGG19. The objective function (IF) is a weighted sum on each incremental transformations that gives a more important weight on the first increments (where IPM is supposed to be more accurate). Two additionnal loss are tested that add features comparison with surface images (SF+IF) and with previous IPM images in the transformation chain (IF+IF-1). Qualitative and quantitative evaluation are proposed on the AI4Mars dataset. This results in improvements w.r.t. to IPM and Boosted IPM (also based on a generative model) on image quality and feature similarity metrics. The proposed models are used to train a semantic segmentation model applied to hazardous terrain detection. The dice score on landing data from the Perseverance rover is also improved using the data produced by the proposed models.
