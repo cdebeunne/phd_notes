@@ -85,7 +85,7 @@ Spatial exploration:
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 * [Training a terrain traversability classifier for a planetary rover through simulation](paper_notes/training_a_terrain_trav_classif.md) - Hewitt
 
-Image Processing:
+Image Processing / Computer Vision:
 ---
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
 * [Real Time Direct Dense Matching on Fisheye Images Using Plane Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
@@ -122,6 +122,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [3FO: The Three-Frame-Only Approach for Fast and Accurate Monocular SLAM Initialization](paper_notes/3fo_the_three_frame_only.md) - Zhang
 * [Non-Iterative, Feature-Preserving Mesh Smoothing](paper_notes/non_iterative_mesh_smoothing.md) - Jones
 * [Real-Time 6D Stereo Visual Odometry with Non-Overlapping Fields of View](paper_notes/real-time_non-overlapping.md) - Kazik
+* [Incremental Solid Modeling from Sparse and Omnidirectional Structure-from-Motion Data](paper_notes/incremental_solid_modelling_sfm.md) - Lhuillier
 
 Maths:
 ---
