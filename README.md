@@ -69,6 +69,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Real-Time CPU-Based Large-Scale Three-Dimensional Mesh Reconstruction](paper_notes/real_time_mesh_reconstruction.md) - Piazza
 * [3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices](paper_notes/3d_modeling_on_the_go.md) - Schöps
 * [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
+* [On-Manifold Preintegration for Real-Time Visual-Inertial Odometry](paper_notes/on_manifold_preintegration.md) - Forster
 
 Spatial exploration:
 ---
