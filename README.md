@@ -176,6 +176,7 @@ Traversability:
 * [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
 * [3D Navigation Mesh Generation for Path Planning in Uneven Terrain](paper_notes/3d_navigation_mesh.md) - Pütz
 * [OVPC Mesh: 3D Free-space Representation for Local Ground Vehicle Navigation](paper_notes/ovpc_mesh.md) - Ruetz
+* [Rough Terrain Reconstruction for Rover Motion Planning](paper_notes/rough_terrain_rec.md) - Gingras
 
 Datasets:
 ---
