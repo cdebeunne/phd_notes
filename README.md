@@ -124,6 +124,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Non-Iterative, Feature-Preserving Mesh Smoothing](paper_notes/non_iterative_mesh_smoothing.md) - Jones
 * [Real-Time 6D Stereo Visual Odometry with Non-Overlapping Fields of View](paper_notes/real-time_non-overlapping.md) - Kazik
 * [Incremental Solid Modeling from Sparse and Omnidirectional Structure-from-Motion Data](paper_notes/incremental_solid_modelling_sfm.md) - Lhuillier
+* [High-Performance and Tunable Stereo Reconstruction](paper_notes/high_perfo_stereo.md) - Pillai
 
 Maths:
 ---
