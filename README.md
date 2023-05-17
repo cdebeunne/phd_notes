@@ -70,6 +70,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices](paper_notes/3d_modeling_on_the_go.md) - Schöps
 * [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
 * [On-Manifold Preintegration for Real-Time Visual-Inertial Odometry](paper_notes/on_manifold_preintegration.md) - Forster
+* [Tightly-Coupled Monocular Visual-Inertial Fusion for Autonomous Flight of Rotorcraft MAVs](paper_notes/tightly_mono_vi_mav.md) - Shen
 
 Spatial exploration:
 ---
