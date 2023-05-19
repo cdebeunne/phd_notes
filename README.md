@@ -87,6 +87,7 @@ Spatial exploration:
 Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 * [Training a terrain traversability classifier for a planetary rover through simulation](paper_notes/training_a_terrain_trav_classif.md) - Hewitt
 * [SLAM for autonomous planetary rovers with global localization](paper_notes/slam_planetary_global.md) - Geromichalos
+* [Adaptive Localization and Mapping with Application to Planetary Rovers](paper_notes/adaptative_loc_and_map_rovers.md) - Carrios
 
 Image Processing / Computer Vision:
 ---
