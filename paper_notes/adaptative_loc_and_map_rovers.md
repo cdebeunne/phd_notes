@@ -2,7 +2,7 @@
 
 Author: Carrio
 
-Year: 
+Year: 2018
 
 Notes:
 ---
@@ -43,3 +43,31 @@ $$
 * For any arbitrary $\boldsymbol{x}^*$ its mean and variance can be predicted with the GP hyperparameters (W, $\sigma_f$, $\Sigma$) and training data
 * And the hyperparameters can be learned maximising the log likelihood of the training outputs of the given inputs
 * The purpose of GP here is to model the odometry error to feed the backend of the SLAM, thus $x_i = [s(i), u(i)]$ and $y_i = s(i+1) - s(i) - g(s(i), u(i))$ with $g$ the motion model of the rover
+
+## Adaptive sparsity
+* Defines RoA (rate of adapatation) as a function that reflects the reactivity of the system wrt WO error (in practice to control the KF rate wrt WO error)
+* Select KF rate with both feature tracking and predicted WO error according to
+$$
+\begin{array}{r}
+\rho=\frac{\bar{\rho}-\underline{\rho}}{(\bar{\gamma}-\underline{\gamma})^2}\left\|\breve{\boldsymbol{y}}_*\right\|^2+\underline{\rho} \\
+\breve{\boldsymbol{y}}_*=\boldsymbol{y}_*+\Sigma_{y_*}
+\end{array}
+$$
+* Uses ORB features with BRIEF descriptors on a stereo cam for VO
+* The prediction from the WO are used to optimize feature tracking
+* Loop closure detected with BoW, global optimization using G2O
+
+## Experiments
+* The GP is trained on a bench of experiments to generates X: (pitch, roll, gyro, accelero, joints states) and Y: (delta poses computed using groundtruth)
+* Four thread: A stereo VO thread, graph optim, loop closure, dense map
+* Their WO > "skid odometry"
+* The GP accuracy is evaluated on test datasets: low error is difficult to predict because of low SNR as well as extreme cases like 100% slippage
+* The setup with stereo cameras pointing downwards makes it hard for loop closure
+* Analysis of the length of autonmos drives
+
+## Remarks
+* The GP could be trained online (Incremental Local Gaussian
+Regression)
+* Why the GP is not used for Covariance estimation?
+* For our work: we ignore WO study as our plateform has a dynamic far away from legged wheeled robots
+ 
