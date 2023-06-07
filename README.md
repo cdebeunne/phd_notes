@@ -187,6 +187,10 @@ Datasets:
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 * [4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions](paper_notes/4seasons_dataset.md) - Wenzel
 
+Navigation:
+---
+* [Information Aided Navigation: A Review](paper_notes/information_aided_nav.md) - Engelsmann
+
 
 Talks:
 ---
