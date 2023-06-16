@@ -71,6 +71,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
 * [On-Manifold Preintegration for Real-Time Visual-Inertial Odometry](paper_notes/on_manifold_preintegration.md) - Forster
 * [Tightly-Coupled Monocular Visual-Inertial Fusion for Autonomous Flight of Rotorcraft MAVs](paper_notes/tightly_mono_vi_mav.md) - Shen
+* [On Scale Initialization in Non-Overlapping Multi-Perspective Visual Odometry](paper_notes/on_scale_init_mpvo.md) - Wang
 
 Spatial exploration:
 ---
