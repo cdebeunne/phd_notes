@@ -76,3 +76,9 @@ In the introduction, the author refers to sensor fusion for robotic applications
 * II, C: capital letters for Supervised Variationnal AutoEncoders (SVAE)
 * III - A : The list of symbols table crops some notations and it is not necessarily easy to read. Maybe a short paragraph would be more compact and more lisible.
 * III - B : in the formulation it is stated $\hat{E}_t \in [0, 1]^T$ which is a bad notation. $\hat{E}_t$ it is a vector $\in \mathbb{R}^T$, you should write it as in III-C $\hat{E}_t = [p_t, ... p_{t+T-1}]$ with $p_t \in [0, 1] \forall t$.
+* IV - B, 4) : Missing braces around the kernel sizes {3,2,2}
+* IV - C, 2) : Be consistent with the notations, here you wrote lidar without capital letters instead of LiDAR  
+* IV - D, par 2: You use i.e. twice in the same sentence to explain edge weights, this is not clear, you should reformulate
+
+## Other
+* Too much remarks into parenthesis or using e.g., i.e.. It degrades the fluidity of the article
