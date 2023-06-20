@@ -60,7 +60,7 @@ Notes:
 
 ## Sum Up 
 
-This paper presents a multi sensor fusion framework for anomaly detection and path planning in unstructured scenes, especially containing vegetation. Data from a LiDAR, an RGB camera and the odometry of a robot is encoded using deep neural network to generate low dimensionnal feature vectors. The predicted trajectory from a path planner is turned into a binary image that is also encoded as a feature vector. These vectors are turned into a graph that is ponderated with reliability scores from image and laser sensors. Scan reliability is based on the number of points belonging to edges and planes while image reliability is based on the brightness and the number of salient points. This graph, whose theoretical consistency is demonstrated in the paper, is then fed into a Graph Neural Network to infer the success probability of each steps of the trajectory planned. This method, called GrASPE, is used in a local path planner in a iterative scheme to generate an anomaly free trajectory. Evaluation on 4 different scenarios is performed to cover a wide range of challenging data (e.g. cluttered scenes, low lighting conditions...). A comparison to path planners and other anomaly detection algorithms concludes the efficiency of the proposed algorithm that results in a decent sucess rate on all the scenarios. Moreover, experiments in real time were conducted as the inference rate is high enough (despite it is the lowest of the proposed method). The author concludes on the limitations of its model and propose to consider the holonomic behaviour of a quadruped robot and the fusion with force sensor for future researches.
+This paper presents a multi sensor fusion framework for anomaly detection and path planning in unstructured scenes, especially containing vegetation. Data from a LiDAR, an RGB camera and the odometry of a robot is encoded using deep neural network to generate low dimensionnal feature vectors. The predicted trajectory from a path planner is turned into a binary image that is also encoded as a feature vector. These vectors are turned into a graph that is ponderated with reliability scores from image and laser sensors. Scan reliability is based on the number of points belonging to edges and planes while image reliability is based on the brightness and the number of salient points. This graph, whose theoretical consistency is demonstrated in the paper, is then fed into a Graph Neural Network to infer the success probability of each steps of the trajectory planned. This method, called GrASPE, is used in a local path planner in a iterative scheme to generate an anomaly free trajectory. Evaluation on 4 different scenarios is performed to cover a wide range of challenging data (e.g. cluttered scenes, low lighting conditions...). A comparison with path planners, other anomaly detection algorithms and ablated version of GrASPE concludes the efficiency of the proposed algorithm. Moreover, experiments in real time were conducted on a robot mounted computer, the inference rate being high enough despite the heavy GNN backbone. The author concludes on the limitations of its model and propose to consider the holonomic behaviour of a quadruped robot and the fusion with force sensor for future researches.
 
 ## Related Work
 
@@ -68,7 +68,6 @@ In the introduction, the author refers to sensor fusion for robotic applications
 
 ## Minor Comments
 
-* abstract check!
 * I, par 1 : in the first sentence, you should stick citations to applications "such as delivery[1], agriculture[2], surveillance..."
 * I, par 3 : you should highlight "Deep Learning" with capital letters as you are using the abbreviation DL
 * I, par 4 : Same remark as before with Attention based CNN (A-CNN)
@@ -79,6 +78,13 @@ In the introduction, the author refers to sensor fusion for robotic applications
 * IV - B, 4) : Missing braces around the kernel sizes {3,2,2}
 * IV - C, 2) : Be consistent with the notations, here you wrote lidar without capital letters instead of LiDAR  
 * IV - D, par 2: You use i.e. twice in the same sentence to explain edge weights, this is not clear, you should reformulate
+* IV - E: You can use A-GNN to save space, the notation was introduced before.
+* IV - F, proof lemma1: It is not explicit from (7) that $r_{i,j} = r_{j,i}$, you should specify it
+* IV - F, proof lemma2: $m_{i,j}$ is not what is in the exponent from (6), it is $\lambda \cdot\left|f_{v e c}(i)-f_{v e c}(j)\right| \cdot\left(2-r_{i, j}\right)$. Proof read is needed in this proof
+* V - E: Again, don't hesitate to use FNR and FPR abreviations to save space
+* Biblio: CVPR acronym is given in [5] but not in [29] and [31] (and the pages are given in [29])
+
+
 
 ## Other
 * Too much remarks into parenthesis or using e.g., i.e.. It degrades the fluidity of the article
