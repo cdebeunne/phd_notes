@@ -199,6 +199,7 @@ Talks:
 * [Dynamic Environments in Least Squares SLAM](paper_notes/dynamicEnv_talk.md) - Stachniss
 * [Where Can Machine Learning Help Robotic State Estimation?](paper_notes/barfoot_talk.md) - Barfoot
 * [Kimera: from classical SLAM to 3D spatial perception](paper_notes/kimera.md) - Rosinol
+* [RatSLAM: Using Models of Rodent Hippocampus for Robot Navigation](paper_notes/ratSLAM.md) - Milford
 
 Traversability map:
 ---
