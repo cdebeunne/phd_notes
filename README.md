@@ -131,6 +131,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Incremental Solid Modeling from Sparse and Omnidirectional Structure-from-Motion Data](paper_notes/incremental_solid_modelling_sfm.md) - Lhuillier
 * [High-Performance and Tunable Stereo Reconstruction](paper_notes/high_perfo_stereo.md) - Pillai
 * [Simple Calibration of Non-overlapping Cameras with a Mirror](paper_notes/simple_calib_nofov.md) - Kumar
+* [Using Many Cameras as One](paper_notes/using_many_cams.md) - Pless
 
 Maths:
 ---
