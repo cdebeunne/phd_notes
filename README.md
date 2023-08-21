@@ -194,6 +194,7 @@ Datasets:
 Navigation:
 ---
 * [Information Aided Navigation: A Review](paper_notes/information_aided_nav.md) - Engelsmann
+* [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth](paper_notes/associating_IMU_earth.md) - Brossard
 
 
 Talks:
