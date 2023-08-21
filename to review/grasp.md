@@ -68,19 +68,19 @@ In the introduction, the author refers to sensor fusion for robotic applications
 
 ## Specific Comments
 
-* I, par 1 : in the first sentence, you should stick citations to applications "such as delivery[1], agriculture[2], surveillance..."
-* I, par 3 : you should highlight "Deep Learning" with capital letters as you are using the abbreviation DL
+* I, par 1 : in the first sentence, you should stick citations to applications "such as delivery[1], agriculture[2], surveillance..." OK
+* I, par 3 : you should highlight "Deep Learning" with capital letters as you are using the abbreviation DL OK
 * I, par 4 : Same remark as before with Attention based CNN (A-CNN)
-* I, par 4 : Why is there a - after poorly? poorly lit is in two words
-* II, C: capital letters for Supervised Variationnal AutoEncoders (SVAE)
-* III - A : The list of symbols table crops some notations and it is not necessarily easy to read. Maybe a short paragraph would be more compact and more lisible.
-* III - B : in the formulation it is stated $\hat{E}_t \in [0, 1]^T$ which is a bad notation. $\hat{E}_t$ it is a vector $\in \mathbb{R}^T$, you should write it as in III-C $\hat{E}_t = [p_t, ... p_{t+T-1}]$ with $p_t \in [0, 1] \forall t$.
-* IV - B, 4) : Missing braces around the kernel sizes {3,2,2}
-* IV - C, 2) : Be consistent with the notations, here you wrote lidar without capital letters instead of LiDAR  
-* IV - D, par 2: You use i.e. twice in the same sentence to explain edge weights. This is clumsy, you should reformulate.
-* IV - E: You can use A-GNN to save space, the notation was introduced before.
-* IV - F, proof lemma1: It is not explicit from (7) that $r_{i,j} = r_{j,i}$, you should specify it or cover more cases in the definition.
-* IV - F, proof lemma2: $m_{i,j}$ is not what is in the exponent from (6), it is $\lambda \cdot\left|f_{v e c}(i)-f_{v e c}(j)\right| \cdot\left(2-r_{i, j}\right)$. Proof read is needed there.
+* I, par 4 : Why is there a - after poorly? poorly lit is in two words OK
+* II, C: capital letters for Supervised Variationnal AutoEncoders (SVAE) OK
+* III - A : The list of symbols table crops some notations and it is not necessarily easy to read. Maybe a short paragraph would be more compact and more lisible. OK
+* III - B : in the formulation it is stated $\hat{E}_t \in [0, 1]^T$ which is a bad notation. $\hat{E}_t$ it is a vector $\in \mathbb{R}^T$, you should write it as in III-C $\hat{E}_t = [p_t, ... p_{t+T-1}]$ with $p_t \in [0, 1] \forall t$. OK
+* IV - B, 4) : Missing braces around the kernel sizes {3,2,2} OK
+* IV - C, 2) : Be consistent with the notations, here you wrote lidar without capital letters instead of LiDAR   OK
+* IV - D, par 2: You use i.e. twice in the same sentence to explain edge weights. This is clumsy, you should reformulate. OK
+* IV - E: You can use A-GNN to save space, the notation was introduced before. OK
+* IV - F, proof lemma1: It is not explicit from (7) that $r_{i,j} = r_{j,i}$, you should specify it or cover more cases in the definition. OK
+* IV - F, proof lemma2: $m_{i,j}$ is not what is in the exponent from (6), it is $\lambda \cdot\left|f_{v e c}(i)-f_{v e c}(j)\right| \cdot\left(2-r_{i, j}\right)$. Proof read is needed there. OK
 * V - E: Again, don't hesitate to use FNR and FPR abreviations to save space
 * Biblio: CVPR acronym is given in [5] but not in [29] and [31] (and the pages are given in [29])
 
@@ -96,3 +96,14 @@ The video is very relevant and illustrates well some parts of the paper. The rec
 ## Conclusion
 
 To conclude, this paper presents an original method based on deep learning to fuse multi-modal information for pro-active failure detection and demonstrate impressive experimental results on a challenging dataset. The document is very dense in information and this leads sometimes to a lack of clarity and readability. Even if the content is very satisfying, the paper needs a proper reformating to fit the standards of a journal paper. 
+
+## NEW REMARKS
+
+The author has answered most of the comments and a proof read has been obviously conducted. The new version is clearer, to me it suits the standards of a journal paper. 
+
+I have just a comment about the modification done in the experimental part. It is good to add a non threshold dependant metric, as requested by one of the reviewers. But why not keeping at least one of the two previous threshold dependant metric? For instance, I believe that in this context the false positive rate was a very relevant metric: a false positive could lead to actual failure in practice. 
+
+Finally, I have two minor comments to add:
+
+* III-A : This paragrah is way clearer than the previous table. However there is a small typo: "from a lidar" => "from a LiDAR".
+* III-B : Ê_t is well defined now, but the notations are differents than in IV-A. In fact, you don't even need to remind the format of the vector to the reader in IV-A.
