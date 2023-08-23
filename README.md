@@ -190,6 +190,7 @@ Datasets:
 ---
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
 * [4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions](paper_notes/4seasons_dataset.md) - Wenzel
+* [HARDNAV - Simulator for Benchmarking Robust Navigation and Place Recognition in Large, Confusing and Highly Dynamic Environments](paper_notes/hardnav.md) - Thomas
 
 Navigation:
 ---
