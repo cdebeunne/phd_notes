@@ -73,6 +73,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Tightly-Coupled Monocular Visual-Inertial Fusion for Autonomous Flight of Rotorcraft MAVs](paper_notes/tightly_mono_vi_mav.md) - Shen
 * [On Scale Initialization in Non-Overlapping Multi-Perspective Visual Odometry](paper_notes/on_scale_init_mpvo.md) - Wang
 * [Robust 6DOF Motion Estimation for Non-Overlapping, Multi-Camera Systems](paper_notes/robust_6dof_motion_multicam.md) - Clipp
+* [Spline-Based Initialization of Monocular Visual–Inertial State Estimators at High Altitude](paper_notes/spline_based_init_vi.md) - Liu
 
 Spatial exploration:
 ---
