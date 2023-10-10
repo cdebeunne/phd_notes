@@ -92,7 +92,7 @@ Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 * [SLAM for autonomous planetary rovers with global localization](paper_notes/slam_planetary_global.md) - Geromichalos
 * [Adaptive Localization and Mapping with Application to Planetary Rovers](paper_notes/adaptative_loc_and_map_rovers.md) - Carrios
 
-Image Processing / Computer Vision:
+Image Processing / Computer Vision / Computer Graphics:
 ---
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
 * [Real Time Direct Dense Matching on Fisheye Images Using Plane Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
@@ -133,6 +133,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [High-Performance and Tunable Stereo Reconstruction](paper_notes/high_perfo_stereo.md) - Pillai
 * [Simple Calibration of Non-overlapping Cameras with a Mirror](paper_notes/simple_calib_nofov.md) - Kumar
 * [Using Many Cameras as One](paper_notes/using_many_cams.md) - Pless
+* [Direct Fitting of Gaussian Mixture Models](paper_notes/direct_fitting_gmm.md) - Kesselman
 
 Maths:
 ---
