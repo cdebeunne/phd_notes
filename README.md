@@ -163,6 +163,7 @@ for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
 * [Gaussian Mixture Midway-Merge for Object SLAM with Pose Ambiguity](paper_notes/gaussian_mixture_objectslam.md) - Jung
 * [Generic Node Removal for Factor-Graph SLAM](paper_notes/generic_node_removal.md) - Bianco
+* [Principal Component Analysis in CGAL](paper_notes/pca_cgal.md) - Gupta
 
 Cave Mapping:
 ---
