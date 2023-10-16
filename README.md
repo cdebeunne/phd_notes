@@ -74,6 +74,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [On Scale Initialization in Non-Overlapping Multi-Perspective Visual Odometry](paper_notes/on_scale_init_mpvo.md) - Wang
 * [Robust 6DOF Motion Estimation for Non-Overlapping, Multi-Camera Systems](paper_notes/robust_6dof_motion_multicam.md) - Clipp
 * [Spline-Based Initialization of Monocular Visual–Inertial State Estimators at High Altitude](paper_notes/spline_based_init_vi.md) - Liu
+* [Invariant Kalman Filtering for Visual Inertial SLAM](paper_notes/invariant_KF_VISLAM.md) - Brossard
 
 Spatial exploration:
 ---
