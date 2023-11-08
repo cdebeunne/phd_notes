@@ -103,6 +103,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 ### NeRF
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 * [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](paper_notes/nice_slam.md) - Zhu
+* [E-NeRF: Neural Radiance Fields from a Moving Event Camera](paper_notes/e-nerf_event.md) - Cremers
 
 ### Datasets
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
