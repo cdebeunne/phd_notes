@@ -2,37 +2,28 @@
 
 Notes about papers read during my phd thesis @ ISAE-SUPAERO
 
-SLAM:
----
+## SLAM:
+
+### Visual SLAM / VO / VIO
+
 * [Semi-Dense Visual Odometry for a Monocular Camera](paper_notes/semidense_VO_mono.md) - Cremers
-* [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](paper_notes/deepFactors.md) - Davison
 * [Direct Visual Odometry for a Fisheye-Stereo Camera](paper_notes/directVO_fisheyeStereo.md) - Liu
-* [WOLF: A modular estimation framework for robotics based on factor graphs](paper_notes/wolf.md) - Joan Solà
+* [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](paper_notes/deepFactors.md) - Davison
 * [Panoramic Visual-Inertial SLAM Tightly Coupled with a Wheel Encoder](paper_notes/PIW_SLAM.md) - Jiang
-* [A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](paper_notes/SLAM_survey.md) - Huang
-* [ProSLAM: Graph SLAM from a Programmer's Perspective](paper_notes/proSLAM.md) - Schlegel
-* [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
-* [Map Construction Based on Lidar Vision Inertial Multi-sensor Fusion](paper_notes/LidarVisionMapping.md) - REVIEW SENSOR
-* [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
-* [SLAM Course](paper_notes/courseSLAM.md) - Joan Solà
 * [Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment](paper_notes/robustVO.md) - Cao
 * [OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time
 Applications](paper_notes/ov2SLAM.md) - Ferrera
-* [Bundle Adjustment on a Graph Processor](paper_notes/bundleGPB.md) - Davison
 * [Real-time Monocular Visual Odometry for Turbid and
 Dynamic Underwater Environments](paper_notes/underwaterSLAM.md) - Ferrera
 * [Comparison of feature detection and outlier removal strategies in a monovisual odometry algorithm for underwater navigation](paper_notes/underwaterNavigation.md) - Bucci
-* [A Survey on Real-Time Motion Estimation Techniques for Underwater Robots](paper_notes/surveyUnderwater.md) - Ferreira
 * [The Relocalization of SLAM Tracking Based on Spherical Cameras](paper_notes/relocSpherical.md) - Chang
 * [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](paper_notes/DMVIO.md) - Cremers
 * [Direct Sparse Odometry](paper_notes/DSO.md) - Cremers
 * [UniVIO: Unified Direct and Feature-based Underwater Stereo Visual-Inertial Odometry](paper_notes/univio.md) - Miao
 * [Cluster-Based Loop Closing Detection for Underwater SLAM in
 Feature-Poor Region](paper_notes/underwaterLoop.md) - Negre
-* [Tightly coupled legged robot state estimation](paper_notes/mederic.md) - thèse Fourmy
 * [A New Visual Inertial Simultaneous Localization and Mapping
 (SLAM) Algorithm Based on Point and Line Features](paper_notes/pointLineSLAM.md) - Zhang
-* [Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study](paper_notes/continuousVSdiscrete.md) - Scaramuzza
 * [Parallel Tracking and Mapping for Small AR Workspaces](paper_notes/ptam.md) - Klein
 * [Large-Scale Direct SLAM for Omnidirectional Cameras](paper_notes/LSDomni.md) - Cremers
 * [Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization](paper_notes/KFbasedVISLAM.md) - Leutenegger
@@ -46,38 +37,77 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [DSOL: A Fast Direct Sparse Odometry Scheme](paper_notes/dsol.md) - Chao Qu
 * [SVO: Semi-Direct Visual Odometry for Monocular and Multi-Camera Systems](paper_notes/svo.md) - Forster
 * [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](paper_notes/orbslam.md) - Murtal
-* [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
-* [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
 * [A Tightly Coupled Feature-based Visual-Inertial Odometry with Stereo Cameras](paper_notes/a_tightly_coupled_fbvio.md) - Lei Yu
 * [Visual-Inertial Mapping with Non-Linear Factor Recovery](paper_notes/visual_inertial_nfr.md) - Cremers
 * [A Partial Sparsification Scheme for Visual-Inertial Odometry](paper_notes/a_partial_sparsifvio.md) - Wang
-* [Thèse Ferrera](paper_notes/these_ferrera.md) - Ferrera 
 * [Illumination Change Robustness in Direct Visual SLAM](paper_notes/Illumination_change_dslam.md) - Park
-* [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rosinol
 * [Dynam-SLAM: An Accurate, Robust Stereo Visual-Inertial SLAM Method in Dynamic Environments](paper_notes/dynam_slam.md) - Yin
-* [VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](paper_notes/vitamine-e.md) - Yokozuka
-* [Present and Future of SLAM in Extreme Underground Environments](paper_notes/present_and_future_SLAM_xtrem.md)  - Carlone
-* [On the Comparison of Gauge Freedom Handling in Optimization-based Visual-Inertial State Estimation](paper_notes/on_the_comparison_of_gauge.md) - Zhang
-* [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
-* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 * [Stereo Visual Odometry with Automatic Brightness Adjustment and Feature Tracking Prediction](paper_notes/stereo_visual_odom_auto_brightness.md) - Yin
-* [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](paper_notes/nice_slam.md) - Zhu
-* [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
-* [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
 * [Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization](paper_notes/direct_sparse_vio.md) - Cremers
-* [Lightweight Semantic Mesh Mapping for Autonomous Vehicles](paper_notes/lightweight_semantic_mesh.md) - Herb
-* [Real-Time CPU-Based Large-Scale Three-Dimensional Mesh Reconstruction](paper_notes/real_time_mesh_reconstruction.md) - Piazza
-* [3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices](paper_notes/3d_modeling_on_the_go.md) - Schöps
-* [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
+* [AFE-ORB-SLAM: Robust Monocular VSLAM Based on Adaptive FAST Threshold and Image Enhancement for Complex Lighting Environments](paper_notes/afe_orbslam.md) - Yu
 * [On-Manifold Preintegration for Real-Time Visual-Inertial Odometry](paper_notes/on_manifold_preintegration.md) - Forster
 * [Tightly-Coupled Monocular Visual-Inertial Fusion for Autonomous Flight of Rotorcraft MAVs](paper_notes/tightly_mono_vi_mav.md) - Shen
 * [On Scale Initialization in Non-Overlapping Multi-Perspective Visual Odometry](paper_notes/on_scale_init_mpvo.md) - Wang
 * [Robust 6DOF Motion Estimation for Non-Overlapping, Multi-Camera Systems](paper_notes/robust_6dof_motion_multicam.md) - Clipp
 * [Spline-Based Initialization of Monocular Visual–Inertial State Estimators at High Altitude](paper_notes/spline_based_init_vi.md) - Liu
 * [Invariant Kalman Filtering for Visual Inertial SLAM](paper_notes/invariant_KF_VISLAM.md) - Brossard
+* [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
 
-Spatial exploration:
----
+### LiDAR / Sensor Fusion 
+
+* [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
+* [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
+
+### Mapping / Surface reconstruction
+
+* [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](paper_notes/incremental_visual_inertial_3d_mesh.md) - Rosinol
+* [VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](paper_notes/vitamine-e.md) - Yokozuka
+* [Lightweight Semantic Mesh Mapping for Autonomous Vehicles](paper_notes/lightweight_semantic_mesh.md) - Herb
+* [Real-Time CPU-Based Large-Scale Three-Dimensional Mesh Reconstruction](paper_notes/real_time_mesh_reconstruction.md) - Piazza
+* [3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices](paper_notes/3d_modeling_on_the_go.md) - Schöps
+* [CHISEL: Real Time Large Scale 3D Reconstruction Onboard a Mobile Device using Spatially-Hashed Signed Distance Fields](paper_notes/chisel.md) - Klingensmith
+
+### Framework
+
+* [WOLF: A modular estimation framework for robotics based on factor graphs](paper_notes/wolf.md) - Joan Solà
+* [ProSLAM: Graph SLAM from a Programmer's Perspective](paper_notes/proSLAM.md) - Schlegel
+* [Bundle Adjustment on a Graph Processor](paper_notes/bundleGPB.md) - Davison
+* [GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios](paper_notes/gameSLAM.md) - Chiu
+* [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
+* [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
+* [Nonlinear Graph Sparsification for SLAM](paper_notes/sparsif.md) - Mazuran
+* [Nonlinear Factor Recovery for Long-Term SLAM](paper_notes/ltslam.md) - Mazuran
+* [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco
+* [Long-Term Simultaneous Localization and Mapping with Generic Linear Constraint Node Removal](paper_notes/longterm_slam_glc.md) - Bianco
+* [C-KLAM: Constrained Keyframe-Based Localization and Mapping
+](paper_notes/cklam.md) - Nerurkar
+* [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
+* [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
+* [Generic Node Removal for Factor-Graph SLAM](paper_notes/generic_node_removal.md) - Bianco
+* [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
+
+### Survey / Comparisons
+
+* [A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](paper_notes/SLAM_survey.md) - Huang
+* [SLAM Course](paper_notes/courseSLAM.md) - Joan Solà
+* [A Survey on Real-Time Motion Estimation Techniques for Underwater Robots](paper_notes/surveyUnderwater.md) - Ferreira
+* [Tightly coupled legged robot state estimation](paper_notes/mederic.md) - thèse Fourmy
+* [Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study](paper_notes/continuousVSdiscrete.md) - Scaramuzza
+* [Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](paper_notes/pastfuturepresent.md) - Cadena
+* [Present and Future of SLAM in Extreme Underground Environments](paper_notes/present_and_future_SLAM_xtrem.md)  - Carlone
+* [On the Comparison of Gauge Freedom Handling in Optimization-based Visual-Inertial State Estimation](paper_notes/on_the_comparison_of_gauge.md) - Zhang
+* [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
+
+### NeRF
+* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
+* [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](paper_notes/nice_slam.md) - Zhu
+
+### Datasets
+* [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
+* [4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions](paper_notes/4seasons_dataset.md) - Wenzel
+* [HARDNAV - Simulator for Benchmarking Robust Navigation and Place Recognition in Large, Confusing and Highly Dynamic Environments](paper_notes/hardnav.md) - Thomas
+
+## Space exploration:
 * [Two Years of Visual Odometry on the Mars Exploration Rovers](paper_notes/mars_rover.md) - Mark Maimone
 * [Enabling Continuous Planetary Rover Navigation through FPGA Stereo and Visual Odometry](paper_notes/fpga_stereo.md) - Howard
 * [Stereo Vision and Rover Navigation Software for Planetary Exploration](paper_notes/stereo_vision_GESTALT.md) - Mark Maimone
@@ -93,13 +123,11 @@ Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 * [SLAM for autonomous planetary rovers with global localization](paper_notes/slam_planetary_global.md) - Geromichalos
 * [Adaptive Localization and Mapping with Application to Planetary Rovers](paper_notes/adaptative_loc_and_map_rovers.md) - Carrios
 
-Image Processing / Computer Vision / Computer Graphics:
----
+## Image Processing / Computer Vision / Computer Graphics:
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
 * [Real Time Direct Dense Matching on Fisheye Images Using Plane Sweeping Stereo](paper_notes/fisheye_planeSweeping.md) - Häne
 * [Real Time Sphere Sweeping Stereo from Multiview Fisheye Images](paper_notes/sphereSweeping.md) - Meuleman
 * [Binocular Spherical Stereo](paper_notes/binocularSpher.md) - Li
-* [Construction de modèles 3D à partir de données vidéo fisheye : application à la localisation en milieu urbain](paper_notes/these_moreau.md) - Thèse de Julien Moreau
 * [Omnidirectional stereoscopic vision systems for planetary exploration rovers](paper_notes/omnidirForRovers.md) - Torres
 * [A Generic Fisheye camera model for robotic applications](paper_notes/genericFisheyeModel.md) - Courbon
 * [Measurement of Three Dimensional Environment with
@@ -134,40 +162,22 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [High-Performance and Tunable Stereo Reconstruction](paper_notes/high_perfo_stereo.md) - Pillai
 * [Simple Calibration of Non-overlapping Cameras with a Mirror](paper_notes/simple_calib_nofov.md) - Kumar
 * [Using Many Cameras as One](paper_notes/using_many_cams.md) - Pless
-* [Direct Fitting of Gaussian Mixture Models](paper_notes/direct_fitting_gmm.md) - Kesselman
+* [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 
-Maths:
----
+## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
 * [A micro Lie theory for state estimation in robotics](paper_notes/micro_lie.md) - Solà
 * [A tutorial on Newton methods for constrained
 trajectory optimization and relations to SLAM,
 Gaussian Process smoothing, optimal control, and
 probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
-* [MegBA: A High-Performance and Distributed Library
-for Large-Scale Bundle Adjustment](paper_notes/megba.md) - Ren
 * [Invariant smoothing on Lie Groups](paper_notes/invariantSmoothing.md) - Paul Chauchat
-* [g2o: A General Framework for Graph Optimization](paper_notes/g2o.md) - Wolfram Burgard
-* [Graph SLAM sparsification with populated topologies using factor descent optimization](paper_notes/graphSparsif.md) - Joan Vallvé
-* [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
-* [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
-* [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
-* [Nonlinear Graph Sparsification for SLAM](paper_notes/sparsif.md) - Mazuran
-* [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
-* [iSAM: Incremental Smoothing and Mapping](paper_notes/isam.md) - Kaess
-* [Nonlinear Factor Recovery for Long-Term SLAM](paper_notes/ltslam.md) - Mazuran
-* [Generic Factor-Based Node Marginalization and Edge Sparsification for Pose-Graph SLAM](paper_notes/generic_factor_spars.md) - Bianco
-* [Long-Term Simultaneous Localization and Mapping with Generic Linear Constraint Node Removal](paper_notes/longterm_slam_glc.md) - Bianco
-* [C-KLAM: Constrained Keyframe-Based Localization and Mapping
-](paper_notes/cklam.md) - Nerurkar
 * [Approximating Discrete Probability Distributions with Dependence Trees](paper_notes/approximatingCLT.md) - Chow & Liu
-* [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
 * [Gaussian Mixture Midway-Merge for Object SLAM with Pose Ambiguity](paper_notes/gaussian_mixture_objectslam.md) - Jung
-* [Generic Node Removal for Factor-Graph SLAM](paper_notes/generic_node_removal.md) - Bianco
+* [Direct Fitting of Gaussian Mixture Models](paper_notes/direct_fitting_gmm.md) - Kesselman
 * [Principal Component Analysis in CGAL](paper_notes/pca_cgal.md) - Gupta
 
-Cave Mapping:
----
+## Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
 * [SmartCaveDrone: 3D Cave Mapping Using UAVs as Robotic Co-Archaeologists](paper_notes/smartCaveDrone.md) - Zhang
 * [Underwater Cave Mapping using Stereo Vision](paper_notes/underwaterCave.md) - Weidner
@@ -176,13 +186,7 @@ Cave Mapping:
 * [Lava tubes on Earth, Moon and Mars: A review on their size and morphology revealed by comparative planetology](paper_notes/lavatubes_earthmoonmars.md) - Sauro
 * [Efficient Large-Scale 3D Mobile Mapping and Surface Reconstruction of an Underground Mine](paper_notes/efficient_large_scale_mine.md) - Zlot
 
-Localization:
----
-* [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
-* [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
-
-Traversability:
----
+## Traversability:
 * [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 * [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
 * [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
@@ -190,17 +194,20 @@ Traversability:
 * [OVPC Mesh: 3D Free-space Representation for Local Ground Vehicle Navigation](paper_notes/ovpc_mesh.md) - Ruetz
 * [Rough Terrain Reconstruction for Rover Motion Planning](paper_notes/rough_terrain_rec.md) - Gingras
 
-Datasets:
----
-* [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
-* [4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions](paper_notes/4seasons_dataset.md) - Wenzel
-* [HARDNAV - Simulator for Benchmarking Robust Navigation and Place Recognition in Large, Confusing and Highly Dynamic Environments](paper_notes/hardnav.md) - Thomas
-
-Navigation:
----
+## Unclassified:
 * [Information Aided Navigation: A Review](paper_notes/information_aided_nav.md) - Engelsmann
 * [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth](paper_notes/associating_IMU_earth.md) - Brossard
+* [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
+* [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 
+# Vulgarisation
+
+Thesis:
+---
+* [Densifying Sparse VIO: a Mesh-based approach using Structural Regularities](paper_notes/these_rosinol.md) - Rosinol
+* [Monocular Visual-Inertial-Pressure Fusion for Underwater Localization and 3D Mapping](paper_notes/these_ferrera.md) - Ferrera 
+* [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
+* [Construction de modèles 3D à partir de données vidéo fisheye : application à la localisation en milieu urbain](paper_notes/these_moreau.md) - Thèse de Julien Moreau
 
 Talks:
 ---
@@ -209,7 +216,7 @@ Talks:
 * [Kimera: from classical SLAM to 3D spatial perception](paper_notes/kimera.md) - Rosinol
 * [RatSLAM: Using Models of Rodent Hippocampus for Robot Navigation](paper_notes/ratSLAM.md) - Milford
 
-Traversability map:
+To read:
 ---
 
 * Sock - Probabilistic Traversability Map Generation Using 3D-LIDAR and

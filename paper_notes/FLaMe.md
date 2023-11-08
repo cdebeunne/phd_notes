@@ -11,12 +11,10 @@ Notes:
 * Focus on lightweight platforms (230 Hz on a single CPU core)
 * Decouple mesh generation and VO
 * strange notation for projection function
-$
-\begin{align*}
+$$
 \pi(x, y, z) =  (x/z, y/z) \\
 u = \pi(K T_w^k p_w)
-\end{align*}
-$
+$$
 * Uses variationnal smoothing to estimate the inverse depth map as a function $\xi : \Omega \rightarrow \mathbb{R}_+$
 * The idea is to minimize an energy function $E(\xi) = E_{smooth}(\xi) + \lambda E_{data}(\xi)$, this can be solved using proximal methods
 * $E_{smooth}$ is a NLGTV energy function and $E_{data}$ is a simple $L_1$ cost 
