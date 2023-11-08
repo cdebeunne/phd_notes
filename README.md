@@ -53,10 +53,12 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Invariant Kalman Filtering for Visual Inertial SLAM](paper_notes/invariant_KF_VISLAM.md) - Brossard
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
 
-### LiDAR / Sensor Fusion 
+### LiDAR / Events / Sensor Fusion 
 
 * [LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry](paper_notes/LIODOM.md) - REVIEW RAL
 * [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
+* [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](paper_notes/event_camera_legged_robot.md) - Zhu
+* [Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching](paper_notes/light_loam.md) - Yi
 
 ### Mapping / Surface reconstruction
 
