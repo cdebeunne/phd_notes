@@ -180,6 +180,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [Gaussian Mixture Midway-Merge for Object SLAM with Pose Ambiguity](paper_notes/gaussian_mixture_objectslam.md) - Jung
 * [Direct Fitting of Gaussian Mixture Models](paper_notes/direct_fitting_gmm.md) - Kesselman
 * [Principal Component Analysis in CGAL](paper_notes/pca_cgal.md) - Gupta
+* [An Efficient Global Optimality Certificate for Landmark-Based SLAM](paper_notes/an_efficient_certificate.md) - Holmes
 
 ## Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
