@@ -167,6 +167,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [Using Many Cameras as One](paper_notes/using_many_cams.md) - Pless
 * [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 * [Surface Reconstruction from Multi-View Stereo of Large-Scale Outdoor Scenes](paper_notes/surface_reco_outdoor.md) - Salaman
+* [Match Propagation for Image-Based Modeling and Rendering](paper_notes/match_propagation_rendering.md) - Lhuillier
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
