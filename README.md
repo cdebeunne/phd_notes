@@ -52,6 +52,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Spline-Based Initialization of Monocular Visual–Inertial State Estimators at High Altitude](paper_notes/spline_based_init_vi.md) - Liu
 * [Invariant Kalman Filtering for Visual Inertial SLAM](paper_notes/invariant_KF_VISLAM.md) - Brossard
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
+* [Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration](paper_notes/tightly-couplet_VDVLI_ice.md) - Zhao
 
 ### LiDAR / Events / Sensor Fusion 
 
