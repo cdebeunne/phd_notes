@@ -54,6 +54,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
 * [Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration](paper_notes/tightly-couplet_VDVLI_ice.md) - Zhao
 * [A New Visual Front-end Combining KLT with Descriptor Matching for Visual-inertial Odometry](paper_notes/a_new_visual_front_end.md) - Wu
+* [Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight](paper_notes/robust_stereo_vio.md) - Sun
 
 ### LiDAR / Events / Sensor Fusion 
 
@@ -184,6 +185,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [Direct Fitting of Gaussian Mixture Models](paper_notes/direct_fitting_gmm.md) - Kesselman
 * [Principal Component Analysis in CGAL](paper_notes/pca_cgal.md) - Gupta
 * [An Efficient Global Optimality Certificate for Landmark-Based SLAM](paper_notes/an_efficient_certificate.md) - Holmes
+* [Observability-based Rules for Designing Consistent EKF SLAM Estimators](paper_notes/observability_based_slam.md) - Huang
 
 ## Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
