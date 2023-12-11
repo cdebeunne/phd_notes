@@ -54,6 +54,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Information Sparsification in Visual-Inertial Odometry](paper_notes/information_sparsif_vio.md) - Kaess
 * [Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration](paper_notes/tightly-couplet_VDVLI_ice.md) - Zhao
 * [A New Visual Front-end Combining KLT with Descriptor Matching for Visual-inertial Odometry](paper_notes/a_new_visual_front_end.md) - Wu
+* [HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO](paper_notes/hdvio.md) - Cioffi
 
 ### LiDAR / Events / Sensor Fusion 
 
