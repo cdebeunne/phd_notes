@@ -56,6 +56,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [A New Visual Front-end Combining KLT with Descriptor Matching for Visual-inertial Odometry](paper_notes/a_new_visual_front_end.md) - Wu
 * [HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO](paper_notes/hdvio.md) - Cioffi
 * [Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight](paper_notes/robust_stereo_vio.md) - Sun
+* [Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro Aerial Vehicle](paper_notes/self_calib_vslam.md) - Heng
 
 ### LiDAR / Events / Sensor Fusion 
 
@@ -172,6 +173,7 @@ Image Sequences](paper_notes/bow.md) - Lopez
 * [A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation](paper_notes/p3p.md) - Scaramuzza 
 * [Surface Reconstruction from Multi-View Stereo of Large-Scale Outdoor Scenes](paper_notes/surface_reco_outdoor.md) - Salaman
 * [Match Propagation for Image-Based Modeling and Rendering](paper_notes/match_propagation_rendering.md) - Lhuillier
+* [Camera Calibration with Distortion Models and Accuracy Evaluation](paper_notes/camera_calibration_dist.md) - Weng
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
