@@ -142,7 +142,7 @@ Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 a FishEye Camera Based on Structure from
 Motion Error Analysis](paper_notes/sfmFisheye.md) - Terabayashi
 * [Bags of Binary Words for Fast Place Recognition in
-Image Sequences](paper_notes/bow.md) - Lopez 
+Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez 
 * [Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information](paper_notes/semiGlobalMatching.md) - Hirschmüller
 * [Accuracy of fish-eye lens models](paper_notes/accuracyFisheye.md) - Hughes
 * [The Double Sphere Camera model](paper_notes/doublesphere.md) - Cremers
