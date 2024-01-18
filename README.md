@@ -57,6 +57,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO](paper_notes/hdvio.md) - Cioffi
 * [Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight](paper_notes/robust_stereo_vio.md) - Sun
 * [Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro Aerial Vehicle](paper_notes/self_calib_vslam.md) - Heng
+* [DTAM: Dense Tracking and Mapping in Real-Time](paper_notes/dtam.md) - Newcombe
 
 ### LiDAR / Events / Sensor Fusion 
 
