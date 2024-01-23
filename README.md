@@ -58,6 +58,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight](paper_notes/robust_stereo_vio.md) - Sun
 * [Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro Aerial Vehicle](paper_notes/self_calib_vslam.md) - Heng
 * [DTAM: Dense Tracking and Mapping in Real-Time](paper_notes/dtam.md) - Newcombe
+* [OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](paper_notes/okvis2.md)  - Leutenegger
 
 ### LiDAR / Events / Sensor Fusion 
 
