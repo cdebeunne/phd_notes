@@ -106,6 +106,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Present and Future of SLAM in Extreme Underground Environments](paper_notes/present_and_future_SLAM_xtrem.md)  - Carlone
 * [On the Comparison of Gauge Freedom Handling in Optimization-based Visual-Inertial State Estimation](paper_notes/on_the_comparison_of_gauge.md) - Zhang
 * [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
+* [A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying Robots](paper_notes/a_benchmark_comparision_monovio.md) - Scarramuza
 
 ### NeRF
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
