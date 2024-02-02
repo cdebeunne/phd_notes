@@ -94,6 +94,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Information-Based Compact Pose SLAM](paper_notes/poseSLAM.md) - Ila
 * [Generic Node Removal for Factor-Graph SLAM](paper_notes/generic_node_removal.md) - Bianco
 * [Robust Incremental Smoothing and Mapping (riSAM)](paper_notes/robust_isam.md) - Kaess
+* [Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World](paper_notes/Kimera2.md) - Abate
 
 ### Survey / Comparisons
 
