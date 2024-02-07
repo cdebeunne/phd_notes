@@ -210,6 +210,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [3D Navigation Mesh Generation for Path Planning in Uneven Terrain](paper_notes/3d_navigation_mesh.md) - Pütz
 * [OVPC Mesh: 3D Free-space Representation for Local Ground Vehicle Navigation](paper_notes/ovpc_mesh.md) - Ruetz
 * [Rough Terrain Reconstruction for Rover Motion Planning](paper_notes/rough_terrain_rec.md) - Gingras
+* [Stereo vision based terrain mapping for off-road autonomous navigation](paper_notes/stereo_vision_terrain_mapping.md) - Rankin
 
 ## Unclassified:
 * [Information Aided Navigation: A Review](paper_notes/information_aided_nav.md) - Engelsmann
