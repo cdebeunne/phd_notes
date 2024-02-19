@@ -178,6 +178,7 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [Surface Reconstruction from Multi-View Stereo of Large-Scale Outdoor Scenes](paper_notes/surface_reco_outdoor.md) - Salaman
 * [Match Propagation for Image-Based Modeling and Rendering](paper_notes/match_propagation_rendering.md) - Lhuillier
 * [Camera Calibration with Distortion Models and Accuracy Evaluation](paper_notes/camera_calibration_dist.md) - Weng
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](/home/deos/ce.debeunne/Documents/phd/papers/phd_notes/paper_notes/voxblox.md) - Oleynikova
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
@@ -206,7 +207,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 ## Traversability:
 * [A Survey on Terrain Traversability Analysis for Autonomous Ground Vehicles: Methods, Sensors, and Challenges](paper_notes/a_survey_on_terrain_traversability.md) - Borges
 * [Bayesian Generalized Kernel Inference for Terrain Traversability Mapping](paper_notes/bayesian_generalized_traversability.md) - Tixiao Shan
-* [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chhaniyara
+* [Terrain trafficability analysis and soil mechanical property identification for planetary rovers: A survey](paper_notes/terrain_trafficability_rover.md) - Chaniyara
 * [3D Navigation Mesh Generation for Path Planning in Uneven Terrain](paper_notes/3d_navigation_mesh.md) - Pütz
 * [OVPC Mesh: 3D Free-space Representation for Local Ground Vehicle Navigation](paper_notes/ovpc_mesh.md) - Ruetz
 * [Rough Terrain Reconstruction for Rover Motion Planning](paper_notes/rough_terrain_rec.md) - Gingras
