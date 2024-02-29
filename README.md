@@ -179,6 +179,7 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [Match Propagation for Image-Based Modeling and Rendering](paper_notes/match_propagation_rendering.md) - Lhuillier
 * [Camera Calibration with Distortion Models and Accuracy Evaluation](paper_notes/camera_calibration_dist.md) - Weng
 * [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](/home/deos/ce.debeunne/Documents/phd/papers/phd_notes/paper_notes/voxblox.md) - Oleynikova
+* [Structure-from-Motion Revisited](paper_notes/SfM_revisited.md) - Schönberger
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
