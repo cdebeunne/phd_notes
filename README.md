@@ -180,6 +180,8 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [Camera Calibration with Distortion Models and Accuracy Evaluation](paper_notes/camera_calibration_dist.md) - Weng
 * [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](/home/deos/ce.debeunne/Documents/phd/papers/phd_notes/paper_notes/voxblox.md) - Oleynikova
 * [Structure-from-Motion Revisited](paper_notes/SfM_revisited.md) - Schönberger
+* [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](paper_notes/Nerf_rps_scenes.md) - Mildenhall
+* [3D Gaussian Splatting for Real-Time Radiance Field Rendering](paper_notes/3d_gaussian_splatting.md) - Kerbl
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
