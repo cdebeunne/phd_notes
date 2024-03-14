@@ -231,6 +231,7 @@ Thesis:
 * [Monocular Visual-Inertial-Pressure Fusion for Underwater Localization and 3D Mapping](paper_notes/these_ferrera.md) - Ferrera 
 * [Information Metrics for Localization and Mapping](paper_notes/these_vallve.md) - Thèse de Joan Vallve
 * [Construction de modèles 3D à partir de données vidéo fisheye : application à la localisation en milieu urbain](paper_notes/these_moreau.md) - Thèse de Julien Moreau
+* [Towards visual localization, mapping and moving objects tracking by a mobile robot: a geometric and probabilistic approach](paper_notes/these_sola.md) - Thèse de Joan Solà
 
 Talks:
 ---
