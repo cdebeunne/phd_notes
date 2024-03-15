@@ -14,6 +14,14 @@ Notes:
 ### II - Vision
 
 * Lens are here to enhance the luminosity (awesome figure 2.1)
+* Homogeneous matrix = transformation matrix
+* defines distortion as an application $d : \mathbb{R}^2  \rightarrow \mathbb{R}^2 $
+* defines image as an application $I : \mathbb{R}^2 \rightarrow \mathbb{R}_+$
+* projection is the combination of the following $\mathbf{u} = pixellize(distort(project(ToFrame(\mathbf{p}))))$
+* back projection: pixel unmapping, undistortion and back projection
+* solution to invert distortion model: calibrate both distortion and correction model as polynomials
+* compute the correction model from the distortion coefficients by solving a least square on a set of pairs $r_i, d_{di}$ 
+* $\mathbf{p} = backProject(correct(unpixellize(\mathbf{u})))$
 
 ###  VIII - SLAM + MOT
 
