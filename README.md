@@ -66,6 +66,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](paper_notes/unsupervizedLidar.md) - Barfoot
 * [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](paper_notes/event_camera_legged_robot.md) - Zhu
 * [Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching](paper_notes/light_loam.md) - Yi
+* [KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way](paper_notes/kiss_icp.md) - Vizzo
 
 ### Mapping / Surface reconstruction
 
