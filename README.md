@@ -59,6 +59,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro Aerial Vehicle](paper_notes/self_calib_vslam.md) - Heng
 * [DTAM: Dense Tracking and Mapping in Real-Time](paper_notes/dtam.md) - Newcombe
 * [OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](paper_notes/okvis2.md)  - Leutenegger
+* [PIPO-SLAM: Lightweight Visual-Inertial SLAM With Preintegration Merging Theory and Pose-Only Descriptions of Multiple View Geometry](paper_notes/pipo_slam.md) - Ge
 
 ### LiDAR / Events / Sensor Fusion 
 
