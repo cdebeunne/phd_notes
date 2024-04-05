@@ -111,10 +111,11 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Research on Underwater Complex Scene SLAM Algorithm Based on Image Enhancement](paper_notes/research_on_underwater_complexe.md) - Wu
 * [A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying Robots](paper_notes/a_benchmark_comparision_monovio.md) - Scarramuza
 
-### NeRF
+### NeRF / Implicit representation
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](paper_notes/NeRF-SLAM.md) - Rosinol
 * [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](paper_notes/nice_slam.md) - Zhu
 * [E-NeRF: Neural Radiance Fields from a Moving Event Camera](paper_notes/e-nerf_event.md) - Cremers
+* [KN-SLAM: Keypoints and Neural Implicit Encoding SLAM](paper_notes/kn-slam.md) - Wu
 
 ### Datasets
 * [A Benchmark for Visual-Inertial Odometry Systems Employing Onboard Illumination](paper_notes/benchmark_vio_illumination.md) - Kasper
