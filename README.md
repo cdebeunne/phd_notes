@@ -60,6 +60,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [DTAM: Dense Tracking and Mapping in Real-Time](paper_notes/dtam.md) - Newcombe
 * [OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure](paper_notes/okvis2.md)  - Leutenegger
 * [PIPO-SLAM: Lightweight Visual-Inertial SLAM With Preintegration Merging Theory and Pose-Only Descriptions of Multiple View Geometry](paper_notes/pipo_slam.md) - Ge
+* [DROID-SLAM](paper_notes/droid_slam.md) - Teed
 
 ### LiDAR / Events / Sensor Fusion 
 
