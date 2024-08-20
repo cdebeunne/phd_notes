@@ -62,6 +62,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [PIPO-SLAM: Lightweight Visual-Inertial SLAM With Preintegration Merging Theory and Pose-Only Descriptions of Multiple View Geometry](paper_notes/pipo_slam.md) - Ge
 * [DROID-SLAM](paper_notes/droid_slam.md) - Teed
 * [MBRVO: A Blur Robust Visual Odometry Based on Motion Blurred Artifact Prior](paper_notes/mbrvo_blur_vo.md) - Zhang
+* [GS3LAM: Gaussian Semantic Splatting SLAM](paper_notes/gs3lam.md) - ???
 
 ### LiDAR / Events / Sensor Fusion 
 
