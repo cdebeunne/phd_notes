@@ -21,6 +21,7 @@ Notes:
 * VO increased precision and safety of the navigation
 * Navigating with rover track: slip check by looking backward 
 * Slip checking device
+* Need to implement the search for a textured enough terrain
 * Necessity of wide angles camera for better feature tracking
 ___
 Commentaires:

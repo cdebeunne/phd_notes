@@ -138,6 +138,7 @@ Entry, Descent, and Landing](paper_notes/VISINAV.md) - Mourikis
 * [Training a terrain traversability classifier for a planetary rover through simulation](paper_notes/training_a_terrain_trav_classif.md) - Hewitt
 * [SLAM for autonomous planetary rovers with global localization](paper_notes/slam_planetary_global.md) - Geromichalos
 * [Adaptive Localization and Mapping with Application to Planetary Rovers](paper_notes/adaptative_loc_and_map_rovers.md) - Carrios
+* [Visual Odometry Thinking While Driving for the Curiosity Mars Rover’s Three-Year Test Campaign: Impact of Evolving Constraints on Verification and Validation](paper_notes/VO_thinking_driving.md) - Maimone
 
 ## Image Processing / Computer Vision / Computer Graphics:
 * [Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm](paper_notes/pyramid_optical_flow.md) - Bouguet
