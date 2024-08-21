@@ -63,6 +63,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [DROID-SLAM](paper_notes/droid_slam.md) - Teed
 * [MBRVO: A Blur Robust Visual Odometry Based on Motion Blurred Artifact Prior](paper_notes/mbrvo_blur_vo.md) - Zhang
 * [GS3LAM: Gaussian Semantic Splatting SLAM](paper_notes/gs3lam.md) - ???
+* [Stereo Visual-Inertial Odometry With Online Initialization and Extrinsic Self-Calibration](paper_notes/stereo_vio_extrinsic_self_calib.md) - Yin
 
 ### LiDAR / Events / Sensor Fusion 
 
