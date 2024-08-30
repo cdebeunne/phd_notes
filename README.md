@@ -207,6 +207,7 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [Principal Component Analysis in CGAL](paper_notes/pca_cgal.md) - Gupta
 * [An Efficient Global Optimality Certificate for Landmark-Based SLAM](paper_notes/an_efficient_certificate.md) - Holmes
 * [Observability-based Rules for Designing Consistent EKF SLAM Estimators](paper_notes/observability_based_slam.md) - Huang
+* [Bayesian Statistics Without Tears: A Sampling-Resampling Perspective](paper_notes/bayesian_without_tears.md) - Smith
 
 ## Cave Mapping:
 * [Point clouds by SLAM-based mobile mapping systems: accuracy and geometric content validation in multisensor survey and stand-alone acquisition](paper_notes/geoSLAM.md) - Sammartano
