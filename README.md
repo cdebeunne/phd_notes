@@ -227,9 +227,14 @@ probabilistic inference](paper_notes/newtonToussaint.md) - Toussaint
 * [Rough Terrain Reconstruction for Rover Motion Planning](paper_notes/rough_terrain_rec.md) - Gingras
 * [Stereo vision based terrain mapping for off-road autonomous navigation](paper_notes/stereo_vision_terrain_mapping.md) - Rankin
 
-## Unclassified:
+## Navigation
+
 * [Information Aided Navigation: A Review](paper_notes/information_aided_nav.md) - Engelsmann
 * [Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth](paper_notes/associating_IMU_earth.md) - Brossard
+* [GVINS: Tightly Coupled GNSS–Visual–Inertial Fusion for Smooth and Consistent State Estimation](paper_notes/gvins.md) - Cao
+
+## Unclassified:
+
 * [Hybrid Scene Compression for Visual Localization](paper_notes/scene_compression.md) - Torsten Sattler
 * [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](paper_notes/gool.md) - Torsten Sattler
 
