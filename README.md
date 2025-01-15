@@ -73,6 +73,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](paper_notes/event_camera_legged_robot.md) - Zhu
 * [Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching](paper_notes/light_loam.md) - Yi
 * [KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way](paper_notes/kiss_icp.md) - Vizzo
+* [Range-Visual-Inertial Odometry: Scale Observability Without Excitation](paper_notes/xvio.md) - Delaune
 
 ### Mapping / Surface reconstruction
 
@@ -192,7 +193,11 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](paper_notes/Nerf_rps_scenes.md) - Mildenhall
 * [3D Gaussian Splatting for Real-Time Radiance Field Rendering](paper_notes/3d_gaussian_splatting.md) - Kerbl
 * [Stereo Processing by Semiglobal Matching and Mutual Information](paper_notes/stereo_processing_sgm.md) - Hirschmüller
+<<<<<<< HEAD
 * [Global Structure-from-Motion Revisited](paper_notes/global_sfm.md) - Pan
+=======
+* [Real-Time Wide-Baseline Place Recognition Using Depth Completion](paper_notes/real_time_wide_baseline_vpr.md) - Maffra
+>>>>>>> 6553018 (update)
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
