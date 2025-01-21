@@ -6,10 +6,28 @@ This paper presents a method to select a relevant subset of landmark for visual 
 
 The related works are summarized in the introduction. This makes sense as this subject was not widely studied in the community and then, a state-of-the-art summary is a great introduction for this paper. Feature selection for visual navigation is fully covered and some related sparsification problems in other fields are cited. However, the state-of-the-art in Visual Inertial Navigation is not described at all. It is not the core of the paper but at least a quick reminder on the most commonly used techniques for VIN (filtering, smoothing...) and reference to a recent paper on the subject (e.g. [2]) should be mentionned.
 
+### Major remarks
+* Poor experimental validation (no simu, only one trajectory of EUROC tested, no ablative study)
+
 ### Minor remarks
 * How did you come up with $f$? 
 * This is not clear how landmarks from Yolo detections are used. Do you use the barycenter of the object? Do you use several keypoints on the object? You should clarify this
 * The conclusive section is pretty deceiving. In particular I find that the proposed futur research could be applied to any paper in robotics that doesn't specifically tackles multi-robot system. Why don't you propose some improvements to your method or some radically different approaches? 
+* III - How do you know that (2) is NP hard? do you have any reference?
+* III - A) Lemma 1 : remove the space in the citation under parenthesis ( [21]) or you can also give it a name like *Approximate non-submodular maximization*
+* III - A) I also believe that lemma 1 should be a proposition
+* III - A) Below Theorem 1 you should precise that the proof is in appendix
+* III - A) There is a confusion in Equation 12: $\bar{\alpha}$ and $\bar{\gamma}$ are supposed to be bounds but you define them in (12) with an inequality while in the demonstration you define $\bar{\gamma}$ with an equality. Btw you should also define $\bar{\alpha}$ in the demonstration. Proof read is needed on both theorem I statement and demo.
+* III - B) You forgot to add the exponent $\eta$ in the sentence "Thus, the terme $\epsilon / c$ ..."
+* III - C) Equation 16 a minus is missing before the Trace
+* IV - In the first paragraph you repeat twice "proposed feature selection frameworks", try to reformulate.
+* IV - Be consistent when you refer to the EuRoC dataset, sometimes you put italic letters, sometimes not
+* IV - A) remove VI in "with a VI (stereo) visual-inertial sensor." That sounds repetitive
+* IV - A) What is this $f$ function on Fig 3? It can't be the objective function as you pretend that the lower the better
+* IV - A) And how do you compute a single value on an entire trajectory? Do you do the average on each keyframe? This should be mentionned
+* IV - A) I don't agree with the statement "the linearization-based greedy algorithm demonstrates comparable performance with superior time complexity when handling larger values of κ". The linearized line is barely below only after $\kappa=110$, Fig3 doesn't allow to draw this conclusion. Additionnal experiments or clearer results are needed.
+* IV - A) Again I believe this statement is a bit far fetched "Interestingly, as indicated by Fig. 3, the time complexity of the randomized greedy algorithm slightly decreases as κ increases." The behaviour of the randomized curve only seems noisy. 
+
 
 ### Overall
 
