@@ -65,6 +65,7 @@ implementation](paper_notes/rtSLAM.md) - Joan Solà
 * [GS3LAM: Gaussian Semantic Splatting SLAM](paper_notes/gs3lam.md) - ???
 * [Stereo Visual-Inertial Odometry With Online Initialization and Extrinsic Self-Calibration](paper_notes/stereo_vio_extrinsic_self_calib.md) - Yin
 * [Attention and Anticipation in Fast Visual-Inertial Navigation](paper_notes/attention_fast_vin.md) - Carlone
+* [Error Propagations for Local Bundle Adjustment](paper_notes/error_propagation_lba.md) - Lhuillier
 
 ### LiDAR / Events / Sensor Fusion 
 
