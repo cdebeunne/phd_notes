@@ -194,11 +194,10 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](paper_notes/Nerf_rps_scenes.md) - Mildenhall
 * [3D Gaussian Splatting for Real-Time Radiance Field Rendering](paper_notes/3d_gaussian_splatting.md) - Kerbl
 * [Stereo Processing by Semiglobal Matching and Mutual Information](paper_notes/stereo_processing_sgm.md) - Hirschmüller
-<<<<<<< HEAD
 * [Global Structure-from-Motion Revisited](paper_notes/global_sfm.md) - Pan
-=======
 * [Real-Time Wide-Baseline Place Recognition Using Depth Completion](paper_notes/real_time_wide_baseline_vpr.md) - Maffra
->>>>>>> 6553018 (update)
+* [Visualizing Spectral Bundle Adjustment Uncertainty](paper_notes/visu_uncertainty_ba.md) - Wilson
+
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
