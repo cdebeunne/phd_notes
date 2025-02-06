@@ -197,7 +197,7 @@ Image Sequences](paper_notes/bags_of_binary_words.md) - Lopez
 * [Global Structure-from-Motion Revisited](paper_notes/global_sfm.md) - Pan
 * [Real-Time Wide-Baseline Place Recognition Using Depth Completion](paper_notes/real_time_wide_baseline_vpr.md) - Maffra
 * [Visualizing Spectral Bundle Adjustment Uncertainty](paper_notes/visu_uncertainty_ba.md) - Wilson
-
+* [Fast and Accurate Camera Covariance Computation for Large 3D Reconstruction](paper_notes/fasr_cam_cov_3d.md) - Polic
 
 ## Maths:
 * [A visual introduction to Gaussian Belief Propagation](paper_notes/gpb.md) - Davison
